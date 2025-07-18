@@ -1,0 +1,25 @@
+{
+  "detail": [
+    {
+      "type": "enum",
+      "loc": [
+        "query",
+        "period"
+      ],
+      "msg": "Input should be '1m', '6m', '1yr', '3yr', '5yr', '10yr' or 'max'",
+      "input": "6M",
+      "ctx": {
+        "expected": "'1m', '6m', '1yr', '3yr', '5yr', '10yr' or 'max'"
+      }
+    },
+    {
+      "type": "missing",
+      "loc": [
+        "query",
+        "filter"
+      ],
+      "msg": "Field required",
+      "input": null
+    }
+  ]
+}

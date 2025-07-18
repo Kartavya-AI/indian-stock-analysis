@@ -1,0 +1,802 @@
+[
+  {
+    "id": "S0003028",
+    "commonName": "Itc",
+    "mgIndustry": "Tobacco",
+    "mgSector": "Consumer/Non-Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500875",
+    "exchangeCodeNsi": "ITC",
+    "bseRic": "ITC.BO",
+    "nseRic": "ITC.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003082",
+    "commonName": "Britannia Industries",
+    "mgIndustry": "Food Processing",
+    "mgSector": "Consumer/Non-Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500825",
+    "exchangeCodeNsi": "BRITANNIA",
+    "bseRic": "BRIT.BO",
+    "nseRic": "BRIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003480",
+    "commonName": "Hitachi Energy India",
+    "mgIndustry": "Electronic Instr. & Controls",
+    "mgSector": "Technology",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543187",
+    "exchangeCodeNsi": "POWERINDIA",
+    "bseRic": "HITN.BO",
+    "nseRic": "HITN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0006080",
+    "commonName": "Itc Hotels",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544325",
+    "exchangeCodeNsi": "ITCHOTELS",
+    "bseRic": "ITCT.BO",
+    "nseRic": "ITCT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003286",
+    "commonName": "Iti",
+    "mgIndustry": "Communications Equipment",
+    "mgSector": "Technology",
+    "stockType": "Equity",
+    "exchangeCodeBse": "523610",
+    "exchangeCodeNsi": "ITI",
+    "bseRic": "ITEL.BO",
+    "nseRic": "ITEL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003188",
+    "commonName": "Aditya Birla Real Estate",
+    "mgIndustry": "Paper & Paper Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500040",
+    "exchangeCodeNsi": "ABREL",
+    "bseRic": "AITE.BO",
+    "nseRic": "AITE.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0006022",
+    "commonName": "International Gemgical Int Ind",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544311",
+    "exchangeCodeNsi": "IGIL",
+    "bseRic": "ITEN.BO",
+    "nseRic": "ITEN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003402",
+    "commonName": "Itd Cementation India",
+    "mgIndustry": "Construction Services",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "509496",
+    "exchangeCodeNsi": "ITDCEM",
+    "bseRic": "ITCM.BO",
+    "nseRic": "ITCM.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004687",
+    "commonName": "Interise Trust Unt",
+    "mgIndustry": "Construction Services",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "541300",
+    "exchangeCodeNsi": "INDINFR",
+    "bseRic": "ITES.BO",
+    "nseRic": "ITES.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0003926",
+    "commonName": "Axiscades Technologies",
+    "mgIndustry": "Business Services",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532395",
+    "exchangeCodeNsi": "AXISCADES",
+    "bseRic": "AXIT.BO",
+    "nseRic": "AXIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003572",
+    "commonName": "Kitex Garments",
+    "mgIndustry": "Apparel/Accessories",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "521248",
+    "exchangeCodeNsi": "KITEX",
+    "bseRic": "KITE.BO",
+    "nseRic": "KITE.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000111",
+    "commonName": "India Tourism Development Corp",
+    "mgIndustry": "Hotels & Motels",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532189",
+    "exchangeCodeNsi": "ITDC",
+    "bseRic": "ITDC.BO",
+    "nseRic": "ITDC.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0005485",
+    "commonName": "Cyient Dlm",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543933",
+    "exchangeCodeNsi": "CYIENTDLM",
+    "bseRic": "CYIT.BO",
+    "nseRic": "CYIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004024",
+    "commonName": "Maithan Alloys",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "590078",
+    "exchangeCodeNsi": "MAITHANALL",
+    "bseRic": "MAIT.BO",
+    "nseRic": "MAIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004504",
+    "commonName": "Indo Thai-b",
+    "mgIndustry": "Investment Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "533676",
+    "exchangeCodeNsi": "BEINDOTHAI",
+    "bseRic": "ITSL.BO",
+    "nseRic": "ITSL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000858",
+    "commonName": "City Pulse Multiplex",
+    "mgIndustry": "Motion Pictures",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "542727",
+    "exchangeCodeNsi": "",
+    "bseRic": "CITP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004757",
+    "commonName": "Hi -tech Pipes",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543411",
+    "exchangeCodeNsi": "HITECH",
+    "bseRic": "HITC.BO",
+    "nseRic": "HITC.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003483",
+    "commonName": "Niit",
+    "mgIndustry": "Schools",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500304",
+    "exchangeCodeNsi": "NIITLTD",
+    "bseRic": "NIIT.BO",
+    "nseRic": "NIIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001157",
+    "commonName": "Capital India Finance",
+    "mgIndustry": "Consumer Financial Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "530879",
+    "exchangeCodeNsi": "CIFL",
+    "bseRic": "CPIT.BO",
+    "nseRic": "CPIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0004480",
+    "commonName": "Jitf Infralogistics",
+    "mgIndustry": "Water Utilities",
+    "mgSector": "Utilities",
+    "stockType": "Equity",
+    "exchangeCodeBse": "540311",
+    "exchangeCodeNsi": "JITFINFRA",
+    "bseRic": "JITF.BO",
+    "nseRic": "JITF.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002007",
+    "commonName": "Citurgia Biochemicals",
+    "mgIndustry": "Chemical Manufacturing",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506373",
+    "exchangeCodeNsi": "",
+    "bseRic": "CITR.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0000327",
+    "commonName": "International Travel House",
+    "mgIndustry": "Personal Services",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500213",
+    "exchangeCodeNsi": "",
+    "bseRic": "ITRV.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0004389",
+    "commonName": "Hitech Corporation",
+    "mgIndustry": "Containers & Packaging",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "526217",
+    "exchangeCodeNsi": "HITECHCORP",
+    "bseRic": "HITE.BO",
+    "nseRic": "HITE.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0001020",
+    "commonName": "Bhilwara Technical Textiles",
+    "mgIndustry": "Textiles - Non Apparel",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "533108",
+    "exchangeCodeNsi": "",
+    "bseRic": "BHIT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0005404",
+    "commonName": "Itcons E-solutions",
+    "mgIndustry": "Business Services",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543806",
+    "exchangeCodeNsi": null,
+    "bseRic": "ITCO.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000249",
+    "commonName": "Indian Toners And Developers",
+    "mgIndustry": "Office Equipment",
+    "mgSector": "Technology",
+    "stockType": "Equity",
+    "exchangeCodeBse": "523586",
+    "exchangeCodeNsi": "",
+    "bseRic": "ITON.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003723",
+    "commonName": "Indian Terrain Fashions",
+    "mgIndustry": "Apparel/Accessories",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "533329",
+    "exchangeCodeNsi": "INDTERRAIN",
+    "bseRic": "ITFL.BO",
+    "nseRic": "ITFL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000460",
+    "commonName": "Mitsu Chem Plast",
+    "mgIndustry": "Containers & Packaging",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "540078",
+    "exchangeCodeNsi": "",
+    "bseRic": "MITU.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002197",
+    "commonName": "Bits",
+    "mgIndustry": "Schools",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "526709",
+    "exchangeCodeNsi": "",
+    "bseRic": "BITS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003756",
+    "commonName": "Cerebra Integrated Tech",
+    "mgIndustry": "Computer Hardware",
+    "mgSector": "Technology",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532413",
+    "exchangeCodeNsi": "CEREBRAINT",
+    "bseRic": "CEIT.BO",
+    "nseRic": "CEIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000955",
+    "commonName": "Asit C Mehta Financial Services",
+    "mgIndustry": "Investment Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "530723",
+    "exchangeCodeNsi": "",
+    "bseRic": "ASIT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0001287",
+    "commonName": "Citadel Realty Developers",
+    "mgIndustry": "Construction Services",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "502445",
+    "exchangeCodeNsi": "",
+    "bseRic": "CITA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002422",
+    "commonName": "Gita Renewable Energy",
+    "mgIndustry": "Electric Utilities",
+    "mgSector": "Utilities",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539013",
+    "exchangeCodeNsi": "",
+    "bseRic": "GITR.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0000987",
+    "commonName": "Orient Tradelink",
+    "mgIndustry": "Motion Pictures",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531512",
+    "exchangeCodeNsi": "",
+    "bseRic": "ORIT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000871",
+    "commonName": "Aditya Spinners",
+    "mgIndustry": "Apparel/Accessories",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "521141",
+    "exchangeCodeNsi": "",
+    "bseRic": "ADIT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001893",
+    "commonName": "Iitl Projects",
+    "mgIndustry": "Business Services",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531968",
+    "exchangeCodeNsi": "",
+    "bseRic": "IITL.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005577",
+    "commonName": "City Crops Agro",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544000",
+    "exchangeCodeNsi": null,
+    "bseRic": "CITC.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "NA",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001321",
+    "commonName": "Glittek Granites",
+    "mgIndustry": "Construction - Raw Materials",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513528",
+    "exchangeCodeNsi": "",
+    "bseRic": "GLIT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0006039",
+    "commonName": "Citichem India",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544324",
+    "exchangeCodeNsi": null,
+    "bseRic": "CITH.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0005817",
+    "commonName": "3c It Solutions Telecom India",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544190",
+    "exchangeCodeNsi": null,
+    "bseRic": "3CIT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0000071",
+    "commonName": "Mitshi India",
+    "mgIndustry": "Food Processing",
+    "mgSector": "Consumer/Non-Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "523782",
+    "exchangeCodeNsi": "",
+    "bseRic": "MITS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0001252",
+    "commonName": "Interactive Financial Services",
+    "mgIndustry": "Software & Programming",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539692",
+    "exchangeCodeNsi": "",
+    "bseRic": "ITER.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001787",
+    "commonName": "Hittco Tools",
+    "mgIndustry": "Misc. Capital Goods",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531661",
+    "exchangeCodeNsi": "",
+    "bseRic": "HITT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000810",
+    "commonName": "Citiport Financial Services",
+    "mgIndustry": "Investment Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531235",
+    "exchangeCodeNsi": "",
+    "bseRic": "CITI.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0001829",
+    "commonName": "International Data Management",
+    "mgIndustry": "Computer Hardware",
+    "mgSector": "Technology",
+    "stockType": "Equity",
+    "exchangeCodeBse": "517044",
+    "exchangeCodeNsi": "",
+    "bseRic": "ITDM.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "E00217",
+    "commonName": "Aditya Birla Sun Life Nifty Healthcare Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "543473",
+    "exchangeCodeNsi": "HEALTHY",
+    "bseRic": "AITA.BO",
+    "nseRic": "AITA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "E00223",
+    "commonName": "Aditya Birla Sun Life Nifty It Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "543472",
+    "exchangeCodeNsi": "TECH",
+    "bseRic": "AITB.BO",
+    "nseRic": "AITB.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "E00045",
+    "commonName": "Aditya Birla Sun Life Gold Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "533408",
+    "exchangeCodeNsi": "BSLGOLDETF",
+    "bseRic": "AITY.BO",
+    "nseRic": "AITY.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0006331",
+    "commonName": "Aditya Birla Lifestyle Brands",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544403",
+    "exchangeCodeNsi": "ABLBL",
+    "bseRic": "AITT.BO",
+    "nseRic": "AITT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": "NA"
+    }
+  },
+  {
+    "id": "E00100",
+    "commonName": "Icici Prudential Nifty Next 50 Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "541809",
+    "exchangeCodeNsi": "NEXT50IETF",
+    "bseRic": "ICIT.BO",
+    "nseRic": "ICIT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  }
+]

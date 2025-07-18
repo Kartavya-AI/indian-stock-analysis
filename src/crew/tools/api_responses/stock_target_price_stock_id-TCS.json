@@ -1,0 +1,217 @@
+{
+  "priceTarget": {
+    "CurrencyCode": "INR",
+    "UnverifiedMean": 3755,
+    "PreliminaryMean": 3755,
+    "High": 4610,
+    "Low": 3130,
+    "Mean": 3755,
+    "Median": 3715,
+    "NumberOfEstimates": 40,
+    "StandardDeviation": 310
+  },
+  "priceTargetSnapshots": {
+    "PriceTargetSnapshot": [
+      {
+        "CurrencyCode": "INR",
+        "High": 4750,
+        "Low": 3072,
+        "Mean": 3842,
+        "Median": 3820,
+        "NumberOfEstimates": 41,
+        "StandardDeviation": 375,
+        "Age": "OneWeekAgo"
+      },
+      {
+        "CurrencyCode": "INR",
+        "High": 4750,
+        "Low": 3072,
+        "Mean": 3846,
+        "Median": 3783,
+        "NumberOfEstimates": 41,
+        "StandardDeviation": 386,
+        "Age": "ThirtyDaysAgo"
+      },
+      {
+        "CurrencyCode": "INR",
+        "High": 4770,
+        "Low": 3000,
+        "Mean": 3861,
+        "Median": 3800,
+        "NumberOfEstimates": 41,
+        "StandardDeviation": 404,
+        "Age": "SixtyDaysAgo"
+      },
+      {
+        "CurrencyCode": "INR",
+        "High": 4770,
+        "Low": 3000,
+        "Mean": 3861,
+        "Median": 3800,
+        "NumberOfEstimates": 41,
+        "StandardDeviation": 404,
+        "Age": "NinetyDaysAgo"
+      }
+    ]
+  },
+  "recommendation": {
+    "UnverifiedMean": 2.21,
+    "PreliminaryMean": 2.21,
+    "Mean": 2.21,
+    "High": 1,
+    "Low": 5,
+    "NumberOfRecommendations": 42,
+    "Statistics": {
+      "Statistic": [
+        {
+          "Recommendation": 1,
+          "NumberOfAnalysts": 12
+        },
+        {
+          "Recommendation": 2,
+          "NumberOfAnalysts": 14
+        },
+        {
+          "Recommendation": 3,
+          "NumberOfAnalysts": 12
+        },
+        {
+          "Recommendation": 4,
+          "NumberOfAnalysts": 3
+        },
+        {
+          "Recommendation": 5,
+          "NumberOfAnalysts": 1
+        }
+      ]
+    }
+  },
+  "recommendationSnapshots": {
+    "RecommendationSnapshot": [
+      {
+        "Mean": 2.07,
+        "High": 1,
+        "Low": 5,
+        "NumberOfRecommendations": 41,
+        "Statistics": {
+          "Statistic": [
+            {
+              "Recommendation": 1,
+              "NumberOfAnalysts": 14
+            },
+            {
+              "Recommendation": 2,
+              "NumberOfAnalysts": 14
+            },
+            {
+              "Recommendation": 3,
+              "NumberOfAnalysts": 10
+            },
+            {
+              "Recommendation": 4,
+              "NumberOfAnalysts": 2
+            },
+            {
+              "Recommendation": 5,
+              "NumberOfAnalysts": 1
+            }
+          ]
+        },
+        "Age": "OneWeekAgo"
+      },
+      {
+        "Mean": 2.07,
+        "High": 1,
+        "Low": 5,
+        "NumberOfRecommendations": 41,
+        "Statistics": {
+          "Statistic": [
+            {
+              "Recommendation": 1,
+              "NumberOfAnalysts": 14
+            },
+            {
+              "Recommendation": 2,
+              "NumberOfAnalysts": 14
+            },
+            {
+              "Recommendation": 3,
+              "NumberOfAnalysts": 10
+            },
+            {
+              "Recommendation": 4,
+              "NumberOfAnalysts": 2
+            },
+            {
+              "Recommendation": 5,
+              "NumberOfAnalysts": 1
+            }
+          ]
+        },
+        "Age": "ThirtyDaysAgo"
+      },
+      {
+        "Mean": 2.02,
+        "High": 1,
+        "Low": 5,
+        "NumberOfRecommendations": 40,
+        "Statistics": {
+          "Statistic": [
+            {
+              "Recommendation": 1,
+              "NumberOfAnalysts": 14
+            },
+            {
+              "Recommendation": 2,
+              "NumberOfAnalysts": 15
+            },
+            {
+              "Recommendation": 3,
+              "NumberOfAnalysts": 8
+            },
+            {
+              "Recommendation": 4,
+              "NumberOfAnalysts": 2
+            },
+            {
+              "Recommendation": 5,
+              "NumberOfAnalysts": 1
+            }
+          ]
+        },
+        "Age": "SixtyDaysAgo"
+      },
+      {
+        "Mean": 2.02,
+        "High": 1,
+        "Low": 5,
+        "NumberOfRecommendations": 40,
+        "Statistics": {
+          "Statistic": [
+            {
+              "Recommendation": 1,
+              "NumberOfAnalysts": 14
+            },
+            {
+              "Recommendation": 2,
+              "NumberOfAnalysts": 15
+            },
+            {
+              "Recommendation": 3,
+              "NumberOfAnalysts": 8
+            },
+            {
+              "Recommendation": 4,
+              "NumberOfAnalysts": 2
+            },
+            {
+              "Recommendation": 5,
+              "NumberOfAnalysts": 1
+            }
+          ]
+        },
+        "Age": "NinetyDaysAgo"
+      }
+    ]
+  }
+}

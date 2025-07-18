@@ -1,0 +1,4468 @@
+[
+  {
+    "id": "MF009715",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E41",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009722",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E17",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009723",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E66",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009708",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E33",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009712",
+    "schemeName": "Axis Aggresive Hybrid Fund Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F16",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009717",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E58",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009724",
+    "schemeName": "Axis Aggresive Hybrid Fund Regular Growth",
+    "isin": "INF846K01E90",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009716",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E09",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009711",
+    "schemeName": "Axis Aggresive Hybrid Fund Regular Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F32",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009719",
+    "schemeName": "Axis Aggresive Hybrid Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E74",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009720",
+    "schemeName": "Axis Aggresive Hybrid Fund Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F24",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009721",
+    "schemeName": "Axis Aggressive Hybrid Fund Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F08",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009710",
+    "schemeName": "Axis Aggresive Hybrid Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01E82",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009052",
+    "schemeName": "Axis Arbitrage Direct Growth",
+    "isin": "INF846K01PZ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009055",
+    "schemeName": "Axis Arbitrage Fund - Direct plan - Monthly IDCW payout",
+    "isin": "INF846K01QA2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008944",
+    "schemeName": "Axis Arbitrage Fund - Direct plan - Monthly IDCW reinvestment",
+    "isin": "INF846K01QB0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009053",
+    "schemeName": "Axis Arbitrage Fund - Regular plan - Monthly IDCW payout",
+    "isin": "INF846K01QD6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008945",
+    "schemeName": "Axis Arbitrage Fund - Regular plan - Monthly IDCW reinvestment",
+    "isin": "INF846K01QE4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF016414",
+    "schemeName": "Axis BSE Sensex Index Fund Direct Growth",
+    "isin": "INF846K012V6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015600",
+    "schemeName": "Axis BSE Sensex ETF",
+    "isin": "INF846K010Q0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016421",
+    "schemeName": "Axis BSE Sensex Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013V4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009066",
+    "schemeName": "Axis Arbitrage Regular Growth",
+    "isin": "INF846K01QC8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF016412",
+    "schemeName": "Axis BSE Sensex Index Fund Regular Growth",
+    "isin": "INF846K014V2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016413",
+    "schemeName": "Axis BSE Sensex Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015V9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016415",
+    "schemeName": "Axis BSE Sensex Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011V8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016422",
+    "schemeName": "Axis BSE Sensex Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010V0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003903",
+    "schemeName": "Axis Balanced Advantage Fund Direct Growth",
+    "isin": "INF846K01A29",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003922",
+    "schemeName": "Axis Balanced Advantage Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01A45",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003904",
+    "schemeName": "Axis Balanced Advantage Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01A37",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF001001",
+    "schemeName": "Axis Balanced Advantage Fund Regular Growth",
+    "isin": "INF846K01A52",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF001007",
+    "schemeName": "Axis Balanced Advantage Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01A60",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF012005",
+    "schemeName": "Axis Capital Builder Fund Series 1 (1540 days) Direct Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01B77",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000997",
+    "schemeName": "Axis Balanced Advantage Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01A78",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF012006",
+    "schemeName": "Axis Capital Builder Fund Series 1 (1540 days) Direct Growth",
+    "isin": "INF846K01B69",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005785",
+    "schemeName": "Axis Banking & PSU Debt Fund Direct Plan Growth",
+    "isin": "INF846K01CR6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012548",
+    "schemeName": "Axis Capital Builder Fund Series 4 (1582 days) Direct Growth",
+    "isin": "INF846K01K68",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001923",
+    "schemeName": "Axis Banking & PSU Debt Fund Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CE4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002893",
+    "schemeName": "Axis Banking & PSU Debt Fund Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CD6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002892",
+    "schemeName": "Axis Banking & PSU Debt Fund Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CF1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001922",
+    "schemeName": "Axis Banking & PSU Debt Fund Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CG9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014239",
+    "schemeName": "Axis CRISIL IBX SDL May 2027 Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011H7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005268",
+    "schemeName": "Axis Banking & PSU Debt Fund Growth",
+    "isin": "INF846K01CB0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014238",
+    "schemeName": "Axis CRISIL IBX SDL May 2027 Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012H5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014242",
+    "schemeName": "Axis CRISIL IBX SDL May 2027 Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019G2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001910",
+    "schemeName": "Axis Banking & PSU Debt Fund Direct Plan Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CS4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002767",
+    "schemeName": "Axis Banking & PSU Debt Fund Direct Plan Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CU0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001911",
+    "schemeName": "Axis Banking & PSU Debt Fund Direct Plan Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CW6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014241",
+    "schemeName": "Axis CRISIL IBX SDL May 2027 Index Fund Direct Growth",
+    "isin": "INF846K017G6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014133",
+    "schemeName": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010G1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014134",
+    "schemeName": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019F4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014130",
+    "schemeName": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Regular Growth",
+    "isin": "INF846K018F6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014132",
+    "schemeName": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016F0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015475",
+    "schemeName": "Axis Business Cycles Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011O3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF012008",
+    "schemeName": "Axis Capital Builder Fund Series 1 (1540 days) Regular Growth",
+    "isin": "INF846K01B85",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014129",
+    "schemeName": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017F8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014131",
+    "schemeName": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Direct Growth",
+    "isin": "INF846K015F2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015476",
+    "schemeName": "Axis Business Cycles Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010O5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015477",
+    "schemeName": "Axis Business Cycles Fund Regular Growth",
+    "isin": "INF846K019N8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008814",
+    "schemeName": "Axis Children's Direct No Lockin Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01WS2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF015486",
+    "schemeName": "Axis Business Cycles Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017N2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002194",
+    "schemeName": "Axis Banking & PSU Debt Fund Direct Plan Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CV8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002762",
+    "schemeName": "Axis Banking & PSU Debt Fund Direct Plan Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CT2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015485",
+    "schemeName": "Axis Business Cycles Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018N0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF012547",
+    "schemeName": "Axis Capital Builder Fund Series 4 (1582 days) Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01K76",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014240",
+    "schemeName": "Axis CRISIL IBX SDL May 2027 Index Fund Regular Growth",
+    "isin": "INF846K010H9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014243",
+    "schemeName": "Axis CRISIL IBX SDL May 2027 Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018G4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF008943",
+    "schemeName": "Axis Children's Regular No Lock in Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01WL7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF012007",
+    "schemeName": "Axis Capital Builder Fund Series 1 (1540 days) Regular Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01B93",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008811",
+    "schemeName": "Axis Children's Regular No Lock in Growth",
+    "isin": "INF846K01WM5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008942",
+    "schemeName": "Axis Children's Direct No Lockin Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01WQ6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003614",
+    "schemeName": "Axis Conservative Hybrid Fund Annual Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01743",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF012544",
+    "schemeName": "Axis Capital Builder Fund Series 4 (1582 days) Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01K92",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008825",
+    "schemeName": "Axis Children's Direct Lock in Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01WP8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008823",
+    "schemeName": "Axis Children's Direct No Lock in Growth",
+    "isin": "INF846K01WR4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF015484",
+    "schemeName": "Axis Business Cycles Fund Direct Growth",
+    "isin": "INF846K016N4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002894",
+    "schemeName": "Axis Banking & PSU Debt Fund Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CC8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF008810",
+    "schemeName": "Axis Children's Regular No Lock in Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01WN3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008812",
+    "schemeName": "Axis Children's Regular Lock in Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01WK9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008817",
+    "schemeName": "Axis Children's Regular Lock in Growth",
+    "isin": "INF846K01WJ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003580",
+    "schemeName": "Axis Conservative Hybrid Fund Annual Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01750",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003997",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Annual Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DY0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF012537",
+    "schemeName": "Axis Capital Builder Fund Series 4 (1582 days) Regular Growth",
+    "isin": "INF846K01K84",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003581",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Annual Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DZ7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004634",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Growth Option",
+    "isin": "INF846K01EA8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003777",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EB6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003700",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ED2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003582",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EC4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003565",
+    "schemeName": "Axis Conservative Hybrid Fund Direct Plan Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EE0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004759",
+    "schemeName": "Axis Conservative Hybrid Fund Growth",
+    "isin": "INF846K01693",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008808",
+    "schemeName": "Axis Children's Direct Lock in Growth",
+    "isin": "INF846K01WO1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003620",
+    "schemeName": "Axis Conservative Hybrid Fund Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01727",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003566",
+    "schemeName": "Axis Conservative Hybrid Fund Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01735",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003619",
+    "schemeName": "Axis Conservative Hybrid Fund Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01701",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003567",
+    "schemeName": "Axis Conservative Hybrid Fund Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01719",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF016932",
+    "schemeName": "Axis Consumption Fund Direct Growth",
+    "isin": "INF846K013X0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016935",
+    "schemeName": "Axis Consumption Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014X8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016931",
+    "schemeName": "Axis Consumption Fund Regular Growth",
+    "isin": "INF846K010X6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016936",
+    "schemeName": "Axis Consumption Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015X5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016934",
+    "schemeName": "Axis Consumption Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011X4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002090",
+    "schemeName": "Axis Corporate Bond Fund Direct Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZN6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016933",
+    "schemeName": "Axis Consumption Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012X2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009709",
+    "schemeName": "Axis Aggresive Hybrid Fund Direct Growth",
+    "isin": "INF846K01E25",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004236",
+    "schemeName": "Axis Corporate Bond Fund Direct Growth",
+    "isin": "INF846K01ZM8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002098",
+    "schemeName": "Axis Corporate Bond Fund Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZR7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002093",
+    "schemeName": "Axis Corporate Bond Fund Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZQ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004242",
+    "schemeName": "Axis Corporate Bond Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZS5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002099",
+    "schemeName": "Axis Corporate Bond Fund Direct Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZP1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000715",
+    "schemeName": "Axis Corporate Bond Fund Regular Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZV9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004246",
+    "schemeName": "Axis Corporate Bond Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZT3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002083",
+    "schemeName": "Axis Corporate Bond Fund Regular Growth",
+    "isin": "INF846K01ZU1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002080",
+    "schemeName": "Axis Corporate Bond Fund Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZY3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002088",
+    "schemeName": "Axis Corporate Bond Fund Direct Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZO4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002104",
+    "schemeName": "Axis Corporate Bond Fund Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZZ0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002077",
+    "schemeName": "Axis Corporate Bond Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01A03",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005947",
+    "schemeName": "Axis Credit Risk Fund Direct Growth",
+    "isin": "INF846K01PJ5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002105",
+    "schemeName": "Axis Corporate Bond Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01A11",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002081",
+    "schemeName": "Axis Corporate Bond Fund Regular Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZW7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004978",
+    "schemeName": "Axis Credit Risk Fund Direct Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PK3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004053",
+    "schemeName": "Axis Credit Risk Fund Direct Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PL1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005316",
+    "schemeName": "Axis Credit Risk Fund Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PM9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002106",
+    "schemeName": "Axis Corporate Bond Fund Regular Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ZX5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005311",
+    "schemeName": "Axis Credit Risk Fund Regular Growth",
+    "isin": "INF846K01PO5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002934",
+    "schemeName": "Axis Credit Risk Fund Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PR8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004052",
+    "schemeName": "Axis Credit Risk Fund Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PN7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001924",
+    "schemeName": "Axis Credit Risk Fund Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PS6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001918",
+    "schemeName": "Axis Credit Risk Fund Regular Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PQ0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002931",
+    "schemeName": "Axis Credit Risk Fund Regular Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01PP2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005929",
+    "schemeName": "Axis Dynamic Bond Fund Direct Plan Growth Option",
+    "isin": "INF846K01DI3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004645",
+    "schemeName": "Axis Dynamic Bond Fund Direct Plan Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DL7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004050",
+    "schemeName": "Axis Dynamic Bond Fund Direct Plan Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DK9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005227",
+    "schemeName": "Axis Dynamic Bond Fund Direct Plan Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DJ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004051",
+    "schemeName": "Axis Dynamic Bond Fund Direct Plan Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DM5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005569",
+    "schemeName": "Axis Dynamic Bond Fund Growth",
+    "isin": "INF846K01917",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001925",
+    "schemeName": "Axis Dynamic Bond Fund Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01958",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002100",
+    "schemeName": "Axis Dynamic Bond Fund Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01925",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001926",
+    "schemeName": "Axis Dynamic Bond Fund Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01933",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002097",
+    "schemeName": "Axis Dynamic Bond Fund Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01941",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005908",
+    "schemeName": "Axis ELSS Tax Saver Fund Direct Pan Pyt of Inc Dis cum Cap Wdrl option",
+    "isin": "INF846K01EX0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005343",
+    "schemeName": "Axis ELSS Tax Saver Fund Direct Pan Reinvst of Inc Dis cum Cap Wdrl option",
+    "isin": "INF846K01EY8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005828",
+    "schemeName": "Axis ELSS Tax Saver Fund Growth",
+    "isin": "INF846K01131",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005916",
+    "schemeName": "Axis ELSS Tax Saver Fund Direct Plan Growth Option",
+    "isin": "INF846K01EW2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005831",
+    "schemeName": "Axis ELSS Tax Saver Fund Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01149",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005350",
+    "schemeName": "Axis ELSS Tax Saver Fund Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01156",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006080",
+    "schemeName": "Axis ESG Integration Strategy Fund Direct Growth",
+    "isin": "INF846K01W23",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006075",
+    "schemeName": "Axis ESG Integration Strategy Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01W31",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014218",
+    "schemeName": "Axis Equity ETFs FoF Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012G7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004574",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VK1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006086",
+    "schemeName": "Axis ESG Integration Strategy Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01W72",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006083",
+    "schemeName": "Axis ESG Integration Strategy Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01W49",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014220",
+    "schemeName": "Axis Equity ETFs FoF Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013G5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF014217",
+    "schemeName": "Axis Equity ETFs FoF Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016G8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF014219",
+    "schemeName": "Axis Equity ETFs FoF Regular Growth",
+    "isin": "INF846K014G3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004045",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VL9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004575",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VM7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF010497",
+    "schemeName": "Axis Equity Advantage Series 1 1590 Days Regular Growth",
+    "isin": "INF846K01ZK2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010487",
+    "schemeName": "Axis Equity Advantage Series 1 1590 Days Direct Growth",
+    "isin": "INF846K01ZJ4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005840",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Growth",
+    "isin": "INF846K01VJ3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006082",
+    "schemeName": "Axis ESG Integration Strategy Fund Regular Growth",
+    "isin": "INF846K01W56",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014221",
+    "schemeName": "Axis Equity ETFs FoF Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015G0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF014216",
+    "schemeName": "Axis Equity ETFs FoF Direct Growth",
+    "isin": "INF846K011G9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006087",
+    "schemeName": "Axis ESG Integration Strategy Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01W64",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004046",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VN5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004156",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01XP6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003965",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Growth",
+    "isin": "INF846K01VO3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003967",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VP0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003665",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01XR2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004036",
+    "schemeName": "Axis Equity Savings Fund Direct Plan Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01XQ4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003571",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VQ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003555",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01XS0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013305",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L18",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003572",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VS4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013296",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Regular Half yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L67",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003963",
+    "schemeName": "Axis Equity Savings Fund Regular Plan Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01VR6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013303",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L34",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013309",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Regular Growth",
+    "isin": "INF846K01L42",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013301",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Direct Half yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L26",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011441",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L91",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013297",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L75",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011442",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Direct Growth",
+    "isin": "INF846K01L83",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013299",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01L59",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011431",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M33",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011440",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M17",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011433",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Direct Half yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M09",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011438",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Regular Half yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M41",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011432",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Regular Growth",
+    "isin": "INF846K01M25",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010016",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M74",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011430",
+    "schemeName": "Axis Fixed Term Plan Series 101 1154 Days Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M58",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010020",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Direct Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01M82",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010017",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N24",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013307",
+    "schemeName": "Axis Fixed Term Plan Series 100 1172 Days Direct Growth",
+    "isin": "INF846K01L00",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010013",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Direct Growth",
+    "isin": "INF846K01M66",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010000",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Regular Growth",
+    "isin": "INF846K01M90",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010012",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Regular Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N16",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010010",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N08",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010011",
+    "schemeName": "Axis Fixed Term Plan Series 102 1133 Days Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N32",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010897",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Direct Growth",
+    "isin": "INF846K01O64",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010899",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Direct Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O80",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011069",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Regular Growth",
+    "isin": "INF846K01O98",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010898",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P22",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011057",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O72",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010891",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Regular Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P14",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010880",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P30",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010894",
+    "schemeName": "Axis Fixed Term Plan Series 104 1112 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P06",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012271",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Direct Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P63",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012273",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P55",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012261",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Direct Growth",
+    "isin": "INF846K01P48",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012270",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q05",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012274",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Regular Growth",
+    "isin": "INF846K01P71",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012278",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Regular Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P97",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012279",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01P89",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012276",
+    "schemeName": "Axis Fixed Term Plan Series 105 1128 Days Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q13",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013077",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Regular Growth",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013073",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013074",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Direct Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013072",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Direct Growth",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013086",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Regular Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013087",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013076",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013078",
+    "schemeName": "Axis Fixed Term Plan Series 106 1114 Days Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": null,
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010876",
+    "schemeName": "Axis Fixed Term Plan Series 106 296 Days Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q54",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010871",
+    "schemeName": "Axis Fixed Term Plan Series 106 296 Days Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q39",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010878",
+    "schemeName": "Axis Fixed Term Plan Series 106 296 Days Regular Growth",
+    "isin": "INF846K01Q47",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015518",
+    "schemeName": "Axis Fixed Term Plan Series 112 1143 Days Regular Growth",
+    "isin": "INF846K011P0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013968",
+    "schemeName": "Axis Fixed Term Plan Series 109 91 Days Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010E6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013967",
+    "schemeName": "Axis Fixed Term Plan Series 109 91 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012E2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014458",
+    "schemeName": "Axis Fixed Term Plan Series 110 1553 Days Direct Growth",
+    "isin": "INF846K019I8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013966",
+    "schemeName": "Axis Fixed Term Plan Series 109 91 Days Regular Growth",
+    "isin": "INF846K011E4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013969",
+    "schemeName": "Axis Fixed Term Plan Series 109 91 Days Direct Growth",
+    "isin": "INF846K019D9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014461",
+    "schemeName": "Axis Fixed Term Plan Series 110 1553 Days Regular Growth",
+    "isin": "INF846K011J3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015520",
+    "schemeName": "Axis Fixed Term Plan Series 112 1143 Days Direct Growth",
+    "isin": "INF846K018O8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015612",
+    "schemeName": "Axis Fixed Term Plan Series 114 83 Days Direct Growth",
+    "isin": "INF846K017Q5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015517",
+    "schemeName": "Axis Fixed Term Plan Series 112 1143 Days Regular Half Yearly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013P6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014460",
+    "schemeName": "Axis Fixed Term Plan Series 110 1553 Days Direct Half Yearly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013J9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014462",
+    "schemeName": "Axis Fixed Term Plan Series 110 1553 Days Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010J5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015587",
+    "schemeName": "Axis Fixed Term Plan Series 113 1228 Days Regular Half Yearly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016Q7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015585",
+    "schemeName": "Axis Fixed Term Plan Series 113 1228 Days Regular Growth",
+    "isin": "INF846K014Q2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014457",
+    "schemeName": "Axis Fixed Term Plan Series 110 1553 Days Regular Half Yearly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014J7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016145",
+    "schemeName": "Axis Fixed Term Plan Series 118 100 Days Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012T0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010873",
+    "schemeName": "Axis Fixed Term Plan Series 106 296 Days Direct Growth",
+    "isin": "INF846K01Q21",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015583",
+    "schemeName": "Axis Fixed Term Plan Series 113 1228 Days Direct Growth",
+    "isin": "INF846K011Q8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015523",
+    "schemeName": "Axis Fixed Term Plan Series 112 1143 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012P8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015611",
+    "schemeName": "Axis Fixed Term Plan Series 114 83 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010R8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015609",
+    "schemeName": "Axis Fixed Term Plan Series 114 83 Days Regular Growth",
+    "isin": "INF846K019Q1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015610",
+    "schemeName": "Axis Fixed Term Plan Series 114 83 Days Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018Q3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014459",
+    "schemeName": "Axis Fixed Term Plan Series 110 1553 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012J1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016144",
+    "schemeName": "Axis Fixed Term Plan Series 118 100 Days Regular Growth",
+    "isin": "INF846K019S7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015584",
+    "schemeName": "Axis Fixed Term Plan Series 113 1228 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015Q9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015586",
+    "schemeName": "Axis Fixed Term Plan Series 113 1228 Days Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012Q6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016146",
+    "schemeName": "Axis Fixed Term Plan Series 118 100 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010T4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016143",
+    "schemeName": "Axis Fixed Term Plan Series 118 100 Days Direct Growth",
+    "isin": "INF846K011T2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016304",
+    "schemeName": "Axis Fixed Term Plan Series 120 91 Days Direct Growth",
+    "isin": "INF846K018U5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013262",
+    "schemeName": "Axis Fixed Term Plan Series 95 1185 Days Direct Quarterly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01D83",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016302",
+    "schemeName": "Axis Fixed Term Plan Series 120 91 Days Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019U3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016303",
+    "schemeName": "Axis Fixed Term Plan Series 120 91 Days Regular Growth",
+    "isin": "INF846K015U1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012735",
+    "schemeName": "Axis Fixed Term Plan Series 95 1185 Days Direct Growth",
+    "isin": "INF846K01D26",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016301",
+    "schemeName": "Axis Fixed Term Plan Series 120 91 Days Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017U7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012737",
+    "schemeName": "Axis Fixed Term Plan Series 95 1185 Days Regular Growth",
+    "isin": "INF846K01D59",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012736",
+    "schemeName": "Axis Fixed Term Plan Series 95 1185 Days Regular Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01D67",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013264",
+    "schemeName": "Axis Fixed Term Plan Series 95 1185 Days Regular Half Yearly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01D75",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013263",
+    "schemeName": "Axis Fixed Term Plan Series 95 1185 Days Regular Quarterly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01D91",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010133",
+    "schemeName": "Axis Fixed Term Plan Series 96 1124 Days Direct Growth",
+    "isin": "INF846K01H06",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010125",
+    "schemeName": "Axis Fixed Term Plan Series 96 1124 Days Regular Growth",
+    "isin": "INF846K01H30",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010122",
+    "schemeName": "Axis Fixed Term Plan Series 96 1124 Days Regular Half Yearly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01H55",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010118",
+    "schemeName": "Axis Fixed Term Plan Series 96 1124 Days Regular Quarterly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01H71",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010128",
+    "schemeName": "Axis Fixed Term Plan Series 96 1124 Days Regular Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01H48",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013520",
+    "schemeName": "Axis Fixed Term Plan Series 97 1116 Days Direct Growth",
+    "isin": "INF846K01H89",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013532",
+    "schemeName": "Axis Fixed Term Plan Series 97 1116 Days Direct Half Yearly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01I05",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013522",
+    "schemeName": "Axis Fixed Term Plan Series 97 1116 Days Regular Growth",
+    "isin": "INF846K01I13",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013521",
+    "schemeName": "Axis Fixed Term Plan Series 97 1116 Days Regular Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01I21",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005598",
+    "schemeName": "Axis Flexi Cap Fund Direct Growth",
+    "isin": "INF846K01B28",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005601",
+    "schemeName": "Axis Flexi Cap Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01B02",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013530",
+    "schemeName": "Axis Fixed Term Plan Series 97 1116 Days Regular Half Yearly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01I39",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005603",
+    "schemeName": "Axis Flexi Cap Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01B10",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004292",
+    "schemeName": "Axis Flexi Cap Fund Regular Growth",
+    "isin": "INF846K01B51",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004293",
+    "schemeName": "Axis Flexi Cap Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01B36",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004296",
+    "schemeName": "Axis Flexi Cap Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01B44",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007615",
+    "schemeName": "Axis Floater Fund Direct Annually Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016A1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007622",
+    "schemeName": "Axis Floater Fund Direct Annually Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015A3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007613",
+    "schemeName": "Axis Floater Fund Direct Daily Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011B0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007605",
+    "schemeName": "Axis Floater Fund Direct Growth",
+    "isin": "INF846K014A6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007607",
+    "schemeName": "Axis Floater Fund Direct Monthly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018A7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007616",
+    "schemeName": "Axis Floater Fund Direct Monthly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017A9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007611",
+    "schemeName": "Axis Floater Fund Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019A5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007617",
+    "schemeName": "Axis Floater Fund Regular Annually Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014B4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007619",
+    "schemeName": "Axis Floater Fund Direct Quarterly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010B2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007634",
+    "schemeName": "Axis Floater Fund Regular Annually Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013B6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007633",
+    "schemeName": "Axis Floater Fund Regular Daily Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019B3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007625",
+    "schemeName": "Axis Floater Fund Regular Growth",
+    "isin": "INF846K012B8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007623",
+    "schemeName": "Axis Floater Fund Regular Monthly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016B9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007618",
+    "schemeName": "Axis Floater Fund Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018B5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007632",
+    "schemeName": "Axis Floater Fund Regular Monthly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015B1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005921",
+    "schemeName": "Axis Focused Fund Direct Plan Growth Option",
+    "isin": "INF846K01CQ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005930",
+    "schemeName": "Axis Focused Fund Direct Plan Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CO3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007635",
+    "schemeName": "Axis Floater Fund Regular Quarterly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017B7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005338",
+    "schemeName": "Axis Focused Fund Direct Plan Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CP0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005061",
+    "schemeName": "Axis Focused Fund Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CI5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005065",
+    "schemeName": "Axis Focused Fund Growth",
+    "isin": "INF846K01CH7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007874",
+    "schemeName": "Axis Gilt Fund Direct Plan Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DF9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004661",
+    "schemeName": "Axis Gilt Fund Direct Plan Growth Option",
+    "isin": "INF846K01DD4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004047",
+    "schemeName": "Axis Focused Fund Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CJ3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007087",
+    "schemeName": "Axis Gilt Fund Direct Plan Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DE2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002382",
+    "schemeName": "Axis Gilt Fund Direct Plan Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DG7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001919",
+    "schemeName": "Axis Gilt Fund Direct Plan Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DH5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000519",
+    "schemeName": "Axis Gilt Fund Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01BB2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000655",
+    "schemeName": "Axis Gilt Fund Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01AZ3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004184",
+    "schemeName": "Axis Gilt Fund Growth",
+    "isin": "INF846K01AX8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000653",
+    "schemeName": "Axis Gilt Fund Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CK1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006628",
+    "schemeName": "Axis Global Equity Alpha Fund of Fund Direct Growth",
+    "isin": "INF846K01X06",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000521",
+    "schemeName": "Axis Gilt Fund Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CL9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006633",
+    "schemeName": "Axis Global Equity Alpha Fund of Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01X22",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006618",
+    "schemeName": "Axis Global Equity Alpha Fund of Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01X14",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006631",
+    "schemeName": "Axis Global Equity Alpha Fund of Fund Regular Growth",
+    "isin": "INF846K01X30",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006637",
+    "schemeName": "Axis Global Equity Alpha Fund of Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01X48",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006333",
+    "schemeName": "Axis Global Innovation Fund of Fund Direct Growth",
+    "isin": "INF846K01Z20",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006635",
+    "schemeName": "Axis Global Equity Alpha Fund of Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01X55",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006332",
+    "schemeName": "Axis Global Innovation Fund of Fund Regular Growth",
+    "isin": "INF846K01Z53",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006336",
+    "schemeName": "Axis Global Innovation Fund of Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K01Z61",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006331",
+    "schemeName": "Axis Global Innovation Fund of Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K01Z46",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006334",
+    "schemeName": "Axis Global Innovation Fund of Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K01Z38",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008684",
+    "schemeName": "Axis Gold Fund Direct Plan Pyt of Inc Dis cum Cap Wdrl option",
+    "isin": "INF846K01DQ6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF008328",
+    "schemeName": "Axis Gold Exchange Traded Fund",
+    "isin": "INF846K01W80",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF008683",
+    "schemeName": "Axis Gold Fund Direct Plan Growth option",
+    "isin": "INF846K01DS2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF008940",
+    "schemeName": "Axis Gold Fund Direct Plan Reinvst of Inc Dis cum Cap Wdrl option",
+    "isin": "INF846K01DR4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF006337",
+    "schemeName": "Axis Global Innovation Fund of Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K01Z79",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008782",
+    "schemeName": "Axis Gold Growth",
+    "isin": "INF846K01AL3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF008947",
+    "schemeName": "Axis Gold Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01AN9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF006688",
+    "schemeName": "Axis Greater China Equity Fund of Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Y47",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008778",
+    "schemeName": "Axis Gold Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01AM1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF006691",
+    "schemeName": "Axis Greater China Equity Fund of Fund Direct Growth",
+    "isin": "INF846K01Y39",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008742",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Annual Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U25",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008767",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U66",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006694",
+    "schemeName": "Axis Greater China Equity Fund of Fund Regular Growth",
+    "isin": "INF846K01Y62",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008753",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U33",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008749",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U82",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008760",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U90",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006695",
+    "schemeName": "Axis Greater China Equity Fund of Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Y54",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008744",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Growth",
+    "isin": "INF846K01U09",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006710",
+    "schemeName": "Axis Greater China Equity Fund of Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Y88",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008752",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U74",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008745",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Annual Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U17",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006707",
+    "schemeName": "Axis Greater China Equity Fund of Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Y70",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008755",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U41",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008763",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01U58",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008758",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V08",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008743",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V81",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008748",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Growth",
+    "isin": "INF846K01V16",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008751",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V99",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008762",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Annual Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V32",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF016207",
+    "schemeName": "Axis India Manufacturing Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017S1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008761",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Annual Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V24",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008766",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V65",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008754",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V73",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF016204",
+    "schemeName": "Axis India Manufacturing Fund Direct Growth",
+    "isin": "INF846K016S3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008759",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01W15",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008750",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V57",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008764",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01W07",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008756",
+    "schemeName": "Axis Income Plus Arbitrage Active FOF Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01V40",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF016208",
+    "schemeName": "Axis India Manufacturing Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015S5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006416",
+    "schemeName": "Axis Innovation Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01X89",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016209",
+    "schemeName": "Axis India Manufacturing Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018S9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006400",
+    "schemeName": "Axis Innovation Fund Regular Growth",
+    "isin": "INF846K01Y05",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016206",
+    "schemeName": "Axis India Manufacturing Fund Regular Growth",
+    "isin": "INF846K013S0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006593",
+    "schemeName": "Axis Large & Mid Cap Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01J95",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016205",
+    "schemeName": "Axis India Manufacturing Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014S8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006597",
+    "schemeName": "Axis Large & Mid Cap Fund Regular Growth",
+    "isin": "INF846K01J79",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006590",
+    "schemeName": "Axis Large & Mid Cap Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01J61",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006402",
+    "schemeName": "Axis Innovation Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01X97",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006417",
+    "schemeName": "Axis Innovation Fund Direct Growth",
+    "isin": "INF846K01X71",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006406",
+    "schemeName": "Axis Innovation Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Y21",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006591",
+    "schemeName": "Axis Large & Mid Cap Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01J53",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006592",
+    "schemeName": "Axis Large & Mid Cap Fund Direct Growth",
+    "isin": "INF846K01J46",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006410",
+    "schemeName": "Axis Innovation Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Y13",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005934",
+    "schemeName": "Axis Large Cap Fund Direct Plan Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DN3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005933",
+    "schemeName": "Axis Large Cap Fund Direct Plan Growth",
+    "isin": "INF846K01DP8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006595",
+    "schemeName": "Axis Large & Mid Cap Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01J87",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009530",
+    "schemeName": "Axis Liquid Fund Direct Plan Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CY2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF005630",
+    "schemeName": "Axis Large Cap Fund Growth",
+    "isin": "INF846K01164",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005328",
+    "schemeName": "Axis Large Cap Fund Direct Plan Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DO1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008950",
+    "schemeName": "Axis Liquid Fund Direct Plan Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DC6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008949",
+    "schemeName": "Axis Liquid Fund Direct Plan Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01CZ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008668",
+    "schemeName": "Axis Liquid Fund Direct Plan Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DB8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF005628",
+    "schemeName": "Axis Large Cap Fund Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01172",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008672",
+    "schemeName": "Axis Liquid Fund Direct Plan Growth Option",
+    "isin": "INF846K01CX4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF000052",
+    "schemeName": "Axis Liquid Fund Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01420",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF005332",
+    "schemeName": "Axis Large Cap Fund Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01180",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008772",
+    "schemeName": "Axis Liquid Fund Direct Plan Bonus",
+    "isin": "INF846K01NH4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008674",
+    "schemeName": "Axis Liquid Fund Direct Plan Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DA0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF005427",
+    "schemeName": "Axis Liquid Fund Growth",
+    "isin": "INF846K01412",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008938",
+    "schemeName": "Axis Liquid Fund Retail Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01404",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008951",
+    "schemeName": "Axis Liquid Fund Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01461",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003988",
+    "schemeName": "Axis Liquid Fund Retail Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01362",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003635",
+    "schemeName": "Axis Liquid Fund Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01453",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF005258",
+    "schemeName": "Axis Liquid Fund Retail Growth",
+    "isin": "INF846K01354",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003977",
+    "schemeName": "Axis Liquid Fund Retail Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01396",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003980",
+    "schemeName": "Axis Liquid Fund Retail Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01370",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003625",
+    "schemeName": "Axis Liquid Fund Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01438",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008939",
+    "schemeName": "Axis Liquid Fund Retail Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01388",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF015361",
+    "schemeName": "Axis Long Duration Fund Direct Annually Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019M0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF008948",
+    "schemeName": "Axis Liquid Fund Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01446",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF015372",
+    "schemeName": "Axis Long Duration Fund Direct Annually Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017M4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015360",
+    "schemeName": "Axis Long Duration Fund Direct Daily Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017L6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015364",
+    "schemeName": "Axis Long Duration Fund Direct Growth",
+    "isin": "INF846K014L3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015362",
+    "schemeName": "Axis Long Duration Fund Direct Monthly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011M7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015374",
+    "schemeName": "Axis Long Duration Fund Direct Monthly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019L2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015369",
+    "schemeName": "Axis Long Duration Fund Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013M3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015363",
+    "schemeName": "Axis Long Duration Fund Direct Quarterly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015M8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015356",
+    "schemeName": "Axis Long Duration Fund Regular Annually Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018M2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015373",
+    "schemeName": "Axis Long Duration Fund Regular Annually Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016M6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015358",
+    "schemeName": "Axis Long Duration Fund Regular Daily Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016L8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015371",
+    "schemeName": "Axis Long Duration Fund Regular Monthly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018L4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015357",
+    "schemeName": "Axis Long Duration Fund Regular Monthly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010M9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015359",
+    "schemeName": "Axis Long Duration Fund Regular Growth",
+    "isin": "INF846K015L0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015370",
+    "schemeName": "Axis Long Duration Fund Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012M5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005913",
+    "schemeName": "Axis Midcap Fund Direct Pan Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EF7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005348",
+    "schemeName": "Axis Midcap Fund Direct Pan Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EG5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005911",
+    "schemeName": "Axis Midcap Fund Direct Plan Growth",
+    "isin": "INF846K01EH3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005473",
+    "schemeName": "Axis Midcap Fund Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01867",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005471",
+    "schemeName": "Axis Midcap Fund Growth",
+    "isin": "INF846K01859",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015355",
+    "schemeName": "Axis Long Duration Fund Regular Quarterly Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014M1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005354",
+    "schemeName": "Axis Midcap Fund Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01875",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017222",
+    "schemeName": "Axis Momentum Fund Direct Growth",
+    "isin": "INF846K011Z9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017214",
+    "schemeName": "Axis Momentum Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013Z5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017219",
+    "schemeName": "Axis Momentum Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015Z0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017223",
+    "schemeName": "Axis Momentum Fund Regular Growth",
+    "isin": "INF846K010Z1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017215",
+    "schemeName": "Axis Momentum Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012Z7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007164",
+    "schemeName": "Axis Money Market Fund Direct Annual Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q88",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF017216",
+    "schemeName": "Axis Momentum Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014Z3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007160",
+    "schemeName": "Axis Money Market Fund Direct Annual Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q96",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007161",
+    "schemeName": "Axis Money Market Fund Direct Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01Q70",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007157",
+    "schemeName": "Axis Money Market Fund Direct Growth",
+    "isin": "INF846K01Q62",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007158",
+    "schemeName": "Axis Money Market Fund Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R12",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007159",
+    "schemeName": "Axis Money Market Fund Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R38",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007162",
+    "schemeName": "Axis Money Market Fund Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R04",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007163",
+    "schemeName": "Axis Money Market Fund Direct Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R20",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007172",
+    "schemeName": "Axis Money Market Fund Regular Annual Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R61",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007168",
+    "schemeName": "Axis Money Market Fund Regular Annual Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R79",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007169",
+    "schemeName": "Axis Money Market Fund Regular Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R53",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007166",
+    "schemeName": "Axis Money Market Fund Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R95",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007167",
+    "schemeName": "Axis Money Market Fund Regular Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S11",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007171",
+    "schemeName": "Axis Money Market Fund Regular Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S03",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000165",
+    "schemeName": "Axis Multi Asset Allocation Fund - Regular Monthly IDCW payout",
+    "isin": "INF846K01776",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF007165",
+    "schemeName": "Axis Money Market Fund Regular Growth",
+    "isin": "INF846K01R46",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007170",
+    "schemeName": "Axis Money Market Fund Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01R87",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000477",
+    "schemeName": "Axis Multi Asset Allocation Fund - Direct Monthly IDCW payout",
+    "isin": "INF846K01ET8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008966",
+    "schemeName": "Axis Multi Asset Allocation Fund - Regular Monthly IDCW reinvestment",
+    "isin": "INF846K01EU6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF000466",
+    "schemeName": "Axis Multi Asset Allocation Fund Direct Plan Growth Option",
+    "isin": "INF846K01EV4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF000164",
+    "schemeName": "Axis Multi Asset Allocation Fund Growth",
+    "isin": "INF846K01768",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008970",
+    "schemeName": "Axis Multi Asset Allocation Fund - Regular Monthly IDCW reinvestment",
+    "isin": "INF846K01784",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013996",
+    "schemeName": "Axis Multicap Fund Direct Growth",
+    "isin": "INF846K013E0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015024",
+    "schemeName": "Axis NASDAQ 100 Fund of Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014K5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015019",
+    "schemeName": "Axis NASDAQ 100 Fund of Fund Regular Growth",
+    "isin": "INF846K015K2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013999",
+    "schemeName": "Axis Multicap Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014E8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013998",
+    "schemeName": "Axis Multicap Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015E5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015022",
+    "schemeName": "Axis NASDAQ 100 Fund of Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016K0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013997",
+    "schemeName": "Axis Multicap Fund Regular Growth",
+    "isin": "INF846K016E3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015023",
+    "schemeName": "Axis NASDAQ 100 Fund of Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013K7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015020",
+    "schemeName": "Axis NASDAQ 100 Fund of Fund Direct Growth",
+    "isin": "INF846K012K9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013995",
+    "schemeName": "Axis Multicap Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017E1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005306",
+    "schemeName": "Axis NIFTY 50 ETF",
+    "isin": "INF846K01W98",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014000",
+    "schemeName": "Axis Multicap Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018E9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015021",
+    "schemeName": "Axis NASDAQ 100 Fund of Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017K8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006253",
+    "schemeName": "Axis NIFTY Bank ETF",
+    "isin": "INF846K01X63",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007051",
+    "schemeName": "Axis NIFTY IT ETF",
+    "isin": "INF846K01Y96",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006186",
+    "schemeName": "Axis NIFTY Healthcare ETF",
+    "isin": "INF846K01Z12",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013613",
+    "schemeName": "Axis NIFTY India Consumption ETF",
+    "isin": "INF846K016C7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006687",
+    "schemeName": "Axis Nifty 100 Index Fund Direct Growth",
+    "isin": "INF846K01S29",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006678",
+    "schemeName": "Axis Nifty 100 Index Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S37",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006684",
+    "schemeName": "Axis Nifty 100 Index Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S60",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006682",
+    "schemeName": "Axis Nifty 100 Index Fund Regular Growth",
+    "isin": "INF846K01S52",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006680",
+    "schemeName": "Axis Nifty 100 Index Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S45",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006685",
+    "schemeName": "Axis Nifty 100 Index Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S78",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013954",
+    "schemeName": "Axis Nifty 50 Index Fund Direct Growth",
+    "isin": "INF846K013D2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013952",
+    "schemeName": "Axis Nifty 50 Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014D0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013955",
+    "schemeName": "Axis Nifty 50 Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017D3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013950",
+    "schemeName": "Axis Nifty 50 Index Fund Regular Growth",
+    "isin": "INF846K016D5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013951",
+    "schemeName": "Axis Nifty 50 Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015D7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013953",
+    "schemeName": "Axis Nifty 50 Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018D1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016735",
+    "schemeName": "Axis Nifty 500 Index Fund Direct Growth",
+    "isin": "INF846K019W9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013800",
+    "schemeName": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF Fund of Fund Direct Reinvestment Inc Dist cumCapWdrl",
+    "isin": "INF846K019C1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016736",
+    "schemeName": "Axis Nifty 500 Index Fund Regular Growth",
+    "isin": "INF846K018W1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007984",
+    "schemeName": "Axis Nifty AAA BPSDL Apr 26 50:50 ETF",
+    "isin": "INF846K01Z04",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013797",
+    "schemeName": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF Fund of Fund Direct Growth",
+    "isin": "INF846K017C5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013802",
+    "schemeName": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF Fund of Fund Regular Growth",
+    "isin": "INF846K010D8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013799",
+    "schemeName": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF Fund of Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011D6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016628",
+    "schemeName": "Axis Nifty Bank Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016W5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013801",
+    "schemeName": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF Fund of Fund Regular Reinvestment IncDistcumCapWdrl",
+    "isin": "INF846K012D4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013798",
+    "schemeName": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF Fund of Fund Direct Payout Inc Dist cumCapWdrl",
+    "isin": "INF846K018C3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016629",
+    "schemeName": "Axis Nifty Bank Index Fund Direct Growth",
+    "isin": "INF846K015W7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016630",
+    "schemeName": "Axis Nifty Bank Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017W3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016631",
+    "schemeName": "Axis Nifty Bank Index Fund Regular Growth",
+    "isin": "INF846K012W4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016627",
+    "schemeName": "Axis Nifty Bank Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013W2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015801",
+    "schemeName": "Axis Nifty IT Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018R1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016626",
+    "schemeName": "Axis Nifty Bank Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014W0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015805",
+    "schemeName": "Axis Nifty IT Index Fund Direct Growth",
+    "isin": "INF846K017R3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015804",
+    "schemeName": "Axis Nifty IT Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011S4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015802",
+    "schemeName": "Axis Nifty IT Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019R9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015803",
+    "schemeName": "Axis Nifty IT Index Fund Regular Growth",
+    "isin": "INF846K010S6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014345",
+    "schemeName": "Axis Nifty Midcap 50 Index Fund Direct Growth",
+    "isin": "INF846K019H0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015806",
+    "schemeName": "Axis Nifty IT Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012S2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014343",
+    "schemeName": "Axis Nifty Midcap 50 Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010I7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014342",
+    "schemeName": "Axis Nifty Midcap 50 Index Fund Regular Growth",
+    "isin": "INF846K012I3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014347",
+    "schemeName": "Axis Nifty Midcap 50 Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011I5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014346",
+    "schemeName": "Axis Nifty Midcap 50 Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013I1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014344",
+    "schemeName": "Axis Nifty Midcap 50 Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014I9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014120",
+    "schemeName": "Axis Nifty Next 50 Index Fund Direct Growth",
+    "isin": "INF846K019E7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014121",
+    "schemeName": "Axis Nifty Next 50 Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010F3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014119",
+    "schemeName": "Axis Nifty Next 50 Index Fund Regular Growth",
+    "isin": "INF846K012F9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014118",
+    "schemeName": "Axis Nifty Next 50 Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011F1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014116",
+    "schemeName": "Axis Nifty Next 50 Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K013F7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014117",
+    "schemeName": "Axis Nifty Next 50 Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014F5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014282",
+    "schemeName": "Axis Nifty Smallcap 50 Index Fund Direct Growth",
+    "isin": "INF846K013H3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014281",
+    "schemeName": "Axis Nifty Smallcap 50 Index Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014H1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014280",
+    "schemeName": "Axis Nifty Smallcap 50 Index Fund Regular Growth",
+    "isin": "INF846K016H6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014283",
+    "schemeName": "Axis Nifty Smallcap 50 Index Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015H8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014278",
+    "schemeName": "Axis Nifty Smallcap 50 Index Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017H4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014279",
+    "schemeName": "Axis Nifty Smallcap 50 Index Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018H2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017349",
+    "schemeName": "Axis Nifty500 Value 50 ETF",
+    "isin": "INF846KA1119",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017073",
+    "schemeName": "Axis Nifty500 Value 50 Index Fund Direct Growth",
+    "isin": "INF846K013Y8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017060",
+    "schemeName": "Axis Nifty500 Value 50 Index Fund Regular Growth",
+    "isin": "INF846K012Y0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008310",
+    "schemeName": "Axis Overnight Fund Direct Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N99",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008317",
+    "schemeName": "Axis Overnight Fund Direct Growth",
+    "isin": "INF846K01N65",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008309",
+    "schemeName": "Axis Overnight Fund Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N73",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008312",
+    "schemeName": "Axis Overnight Fund Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N81",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008311",
+    "schemeName": "Axis Overnight Fund Direct Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N57",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008316",
+    "schemeName": "Axis Overnight Fund Regular Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O56",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008313",
+    "schemeName": "Axis Overnight Fund Regular Growth",
+    "isin": "INF846K01O23",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008315",
+    "schemeName": "Axis Overnight Fund Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O31",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008308",
+    "schemeName": "Axis Overnight Fund Direct Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01N40",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008314",
+    "schemeName": "Axis Overnight Fund Regular Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O07",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008306",
+    "schemeName": "Axis Overnight Fund Regular Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O15",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008307",
+    "schemeName": "Axis Overnight Fund Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01O49",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF006613",
+    "schemeName": "Axis Quant Fund Direct Growth",
+    "isin": "INF846K01Z87",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006611",
+    "schemeName": "Axis Quant Fund Direct Reinvestment of Income Distribution cum capital withdrawal option",
+    "isin": "INF846K010A4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006610",
+    "schemeName": "Axis Quant Fund Direct Payout of Income Distribution cum capital withdrawal option",
+    "isin": "INF846K01Z95",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006617",
+    "schemeName": "Axis Quant Fund Regular Growth",
+    "isin": "INF846K011A2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006621",
+    "schemeName": "Axis Quant Fund Regular Payout of Income Distribution cum capital withdrawal option",
+    "isin": "INF846K012A0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006615",
+    "schemeName": "Axis Quant Fund Regular Reinvestment of Income Distribution cum capital withdrawal option",
+    "isin": "INF846K013A8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009447",
+    "schemeName": "Axis Retirement Fund - Aggressive Plan Direct Growth",
+    "isin": "INF846K01S86",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009438",
+    "schemeName": "Axis Retirement Fund - Aggressive Plan Regular Growth",
+    "isin": "INF846K01T02",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009445",
+    "schemeName": "Axis Retirement Fund - Aggressive Plan Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01S94",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009439",
+    "schemeName": "Axis Retirement Fund - Aggressive Plan Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01T10",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009440",
+    "schemeName": "Axis Retirement Fund - Conservative Plan Direct Growth",
+    "isin": "INF846K01T69",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009448",
+    "schemeName": "Axis Retirement Fund - Conservative Plan Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01T77",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009450",
+    "schemeName": "Axis Retirement Fund - Conservative Plan Regular Growth",
+    "isin": "INF846K01T85",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009452",
+    "schemeName": "Axis Retirement Fund - Conservative Plan Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01T93",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009454",
+    "schemeName": "Axis Retirement Fund - Dynamic Plan Direct Growth",
+    "isin": "INF846K01T28",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009456",
+    "schemeName": "Axis Retirement Fund - Dynamic Plan Regular Growth",
+    "isin": "INF846K01T44",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009455",
+    "schemeName": "Axis Retirement Fund - Dynamic Plan Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01T36",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009461",
+    "schemeName": "Axis Retirement Fund - Dynamic Plan Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01T51",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004368",
+    "schemeName": "Axis Short Duration Fund Direct Plan Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EJ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005915",
+    "schemeName": "Axis Short Duration Fund Direct Plan Growth Option",
+    "isin": "INF846K01EI1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004058",
+    "schemeName": "Axis Short Duration Fund Direct Plan Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EK7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005351",
+    "schemeName": "Axis Short Duration Fund Direct Plan Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01RI3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005448",
+    "schemeName": "Axis Short Duration Fund Direct Plan Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01RH5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004059",
+    "schemeName": "Axis Short Duration Fund Direct Plan Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EM3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005560",
+    "schemeName": "Axis Short Duration Fund Growth",
+    "isin": "INF846K01644",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004642",
+    "schemeName": "Axis Short Duration Fund Direct Plan Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EL5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002089",
+    "schemeName": "Axis Short Duration Fund Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01651",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004584",
+    "schemeName": "Axis Short Duration Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01RJ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001917",
+    "schemeName": "Axis Short Duration Fund Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01669",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004055",
+    "schemeName": "Axis Short Duration Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01RK9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001943",
+    "schemeName": "Axis Short Duration Fund Regular Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01677",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001927",
+    "schemeName": "Axis Short Duration Fund Regular Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01685",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005885",
+    "schemeName": "Axis Short Duration Fund Retail Growth",
+    "isin": "INF846K01594",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002872",
+    "schemeName": "Axis Short Duration Fund Retail Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01602",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001928",
+    "schemeName": "Axis Short Duration Fund Retail Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01610",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002871",
+    "schemeName": "Axis Short Duration Fund Retail Regular Pyt of Weekly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01628",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001935",
+    "schemeName": "Axis Short Duration Fund Retail Regular Reinvst of Weekly Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01636",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014895",
+    "schemeName": "Axis Silver Fund of Funds Direct Growth",
+    "isin": "INF846K015J4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF014896",
+    "schemeName": "Axis Silver ETF",
+    "isin": "INF846K011K1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF005939",
+    "schemeName": "Axis Short Term Fund Bonus",
+    "isin": "INF846K01NS1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014894",
+    "schemeName": "Axis Silver Fund of Funds Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016J2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF014893",
+    "schemeName": "Axis Silver Fund of Funds Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K017J0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF014915",
+    "schemeName": "Axis Silver Fund of Funds Regular Growth",
+    "isin": "INF846K018J8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF014916",
+    "schemeName": "Axis Silver Fund of Funds Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019J6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF005456",
+    "schemeName": "Axis Small Cap Fund Direct Growth",
+    "isin": "INF846K01K35",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014917",
+    "schemeName": "Axis Silver Fund of Funds Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K010K3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF005454",
+    "schemeName": "Axis Small Cap Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01K43",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004803",
+    "schemeName": "Axis Small Cap Fund Regular Growth",
+    "isin": "INF846K01K01",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005366",
+    "schemeName": "Axis Small Cap Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01K50",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004801",
+    "schemeName": "Axis Small Cap Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01K19",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004073",
+    "schemeName": "Axis Small Cap Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01K27",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005923",
+    "schemeName": "Axis Strategic Bond Fund Direct Growth Option",
+    "isin": "INF846K01DT0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004743",
+    "schemeName": "Axis Strategic Bond Fund Direct Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DU8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004071",
+    "schemeName": "Axis Strategic Bond Fund Direct Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DV6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004072",
+    "schemeName": "Axis Strategic Bond Fund Direct Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DX2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004350",
+    "schemeName": "Axis Strategic Bond Fund Direct Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01DW4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005341",
+    "schemeName": "Axis Strategic Bond Fund Growth",
+    "isin": "INF846K01BP2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002410",
+    "schemeName": "Axis Strategic Bond Fund Half Yearly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01BR8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001936",
+    "schemeName": "Axis Strategic Bond Fund Half Yearly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01BT4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004696",
+    "schemeName": "Axis Strategic Bond Fund Quarterly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01BQ0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004060",
+    "schemeName": "Axis Strategic Bond Fund Quarterly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01BS6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004632",
+    "schemeName": "Axis Treasury Advantage Fund Direct Plan Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EQ4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004785",
+    "schemeName": "Axis Treasury Advantage Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01545",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005903",
+    "schemeName": "Axis Treasury Advantage Fund Direct Plan Growth Option",
+    "isin": "INF846K01EN1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004628",
+    "schemeName": "Axis Treasury Advantage Fund Direct Plan Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EO9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004064",
+    "schemeName": "Axis Treasury Advantage Fund Direct Plan Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01EP6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004627",
+    "schemeName": "Axis Treasury Advantage Fund Direct Plan Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ER2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005802",
+    "schemeName": "Axis Treasury Advantage Growth",
+    "isin": "INF846K01537",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004065",
+    "schemeName": "Axis Treasury Advantage Fund Direct Plan Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01ES0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004766",
+    "schemeName": "Axis Treasury Advantage Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01578",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004067",
+    "schemeName": "Axis Treasury Advantage Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01586",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002551",
+    "schemeName": "Axis Treasury Advantage Retail Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01487",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005513",
+    "schemeName": "Axis Treasury Advantage Retail Growth",
+    "isin": "INF846K01479",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002556",
+    "schemeName": "Axis Treasury Advantage Retail Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01511",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001945",
+    "schemeName": "Axis Treasury Advantage Retail Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01529",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002555",
+    "schemeName": "Axis Treasury Advantage Retail Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01495",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004066",
+    "schemeName": "Axis Treasury Advantage Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01560",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001946",
+    "schemeName": "Axis Treasury Advantage Retail Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01503",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016213",
+    "schemeName": "Axis US Treasury Dynamic Bond ETF Fund of Fund Direct Growth",
+    "isin": "INF846K017T9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004781",
+    "schemeName": "Axis Treasury Advantage Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01552",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016220",
+    "schemeName": "Axis US Treasury Dynamic Bond ETF Fund of Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K018T7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016212",
+    "schemeName": "Axis US Treasury Dynamic Bond ETF Fund of Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K019T5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016211",
+    "schemeName": "Axis US Treasury Dynamic Bond ETF Fund of Fund Regular Growth",
+    "isin": "INF846K013T8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016210",
+    "schemeName": "Axis US Treasury Dynamic Bond ETF Fund of Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K016T1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016221",
+    "schemeName": "Axis US Treasury Dynamic Bond ETF Fund of Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014T6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007859",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Growth",
+    "isin": "INF846K01F40",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007847",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F57",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007848",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F81",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007858",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F99",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007849",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G15",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007853",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G07",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007850",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F73",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007855",
+    "schemeName": "Axis Ultra Short Duration Fund Direct Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01F65",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007866",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Growth",
+    "isin": "INF846K01G23",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007725",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Daily Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G31",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007865",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Monthly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G72",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007862",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Monthly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G64",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007860",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G80",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007863",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G98",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007864",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Weekly Pyt of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G56",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007861",
+    "schemeName": "Axis Ultra Short Duration Fund Regular Weekly Reinvst of Inc Dis cum Cap Wdrl",
+    "isin": "INF846K01G49",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013622",
+    "schemeName": "Axis Value Fund Direct Growth",
+    "isin": "INF846K010C0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013624",
+    "schemeName": "Axis Value Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K011C8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013628",
+    "schemeName": "Axis Value Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K012C6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013630",
+    "schemeName": "Axis Value Fund Regular Growth",
+    "isin": "INF846K013C4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013629",
+    "schemeName": "Axis Value Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF846K015C9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013623",
+    "schemeName": "Axis Value Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF846K014C2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "S0004412",
+    "commonName": "Indbank Merchant Banking Ser",
+    "mgIndustry": "Investment Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "511473",
+    "exchangeCodeNsi": "INDBANK",
+    "bseRic": "IMBS.BO",
+    "nseRic": "IMBS.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "E00073",
+    "commonName": "Aditya Birla Sun Life Banking Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "542863",
+    "exchangeCodeNsi": "ABSLBANETF",
+    "bseRic": "ADIL.BO",
+    "nseRic": "ADIL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "E00245",
+    "commonName": "R* Shares Banking Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "",
+    "exchangeCodeNsi": "RELBANK",
+    "bseRic": "",
+    "nseRic": "RBAN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  }
+]

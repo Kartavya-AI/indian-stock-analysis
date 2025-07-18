@@ -1,0 +1,63 @@
+research_indian_stock_task:
+  description: >
+    Research the Indian stock/company mentioned in the user query: {user_question}
+    
+    Instructions:
+    1. Analyze the user's question to understand what they're asking about
+    2. Identify if they mentioned a company name, stock symbol, or market topic
+    3. If it's a company name, search for the correct NSE/BSE stock symbol
+    4. Understand what specific information the user needs (price, performance, IPO details, etc.)
+    5. Research the company background and market context
+    6. Provide the identified stock symbol and user intent to the NSE data analyst
+    
+    Examples:
+    - "Tell me about Reliance" → Find RELIANCE symbol, user wants general info
+    - "LIC IPO performance" → Find LICI symbol, user wants IPO analysis
+    - "Top gainers today" → No specific symbol, user wants market movers
+    
+    User Question: {user_question}
+  expected_output: >
+    Stock symbol (if applicable), company identification, and clear description of what the user is asking for.
+  agent: indian_stock_researcher
+
+analyze_nse_data_task:
+  description: >
+    Fetch and analyze Indian stock data based on the research findings for: {user_question}
+    
+    Instructions:
+    1. Use the stock symbol and user intent from the research task
+    2. Select appropriate Indian Stock API tools based on what the user is asking:
+       - get_stock_details: For current price, company info, market data
+       - get_industry_search: For industry-wise stock search
+       - get_mutual_fund_search: For mutual fund information
+       - get_stock_target_price: For analyst target prices and recommendations
+       - get_trending_stocks: For trending stocks
+       - get_52_week_high_low: For 52-week highs and lows
+       - get_historical_data: For historical price data
+    3. Fetch relevant data using the appropriate Indian Stock API tools
+    4. Analyze the data and extract key insights
+    5. Focus on answering the user's specific question
+    
+    User Question: {user_question}
+  expected_output: >
+    Comprehensive Indian stock data analysis with specific metrics, trends, and insights that answer the user's question.
+  agent: nse_data_analyst
+
+coordinate_response_task:
+  description: >
+    Coordinate the research and analysis to provide a clear answer to: {user_question}
+    
+    Instructions:
+    1. Review the research findings and NSE data analysis
+    2. Synthesize the information into a clear, conversational response
+    3. Ensure the answer directly addresses the user's question
+    4. Present key information in an easy-to-understand format
+    5. Include relevant numbers, percentages, and market data
+    6. Keep the response focused and avoid unnecessary information
+    
+    User Question: {user_question}
+  expected_output: >
+    A clear, comprehensive answer that directly addresses the user's question with relevant market data and insights in json format.
+    {insights: "Your answer here all in natural language no json format"}
+  agent: response_coordinator
+  context: [research_indian_stock_task, analyze_nse_data_task]

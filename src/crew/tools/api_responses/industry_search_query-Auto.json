@@ -1,0 +1,802 @@
+[
+  {
+    "id": "S0003120",
+    "commonName": "Bajaj Auto",
+    "mgIndustry": "Recreational Products",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532977",
+    "exchangeCodeNsi": "BAJAJ-AUTO",
+    "bseRic": "BAJA.BO",
+    "nseRic": "BAJA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bullish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003383",
+    "commonName": "Honeywell Automation India",
+    "mgIndustry": "Appliance & Tool",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "517174",
+    "exchangeCodeNsi": "HONAUT",
+    "bseRic": "HONE.BO",
+    "nseRic": "HONE.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0006133",
+    "commonName": "Jyoti Cnc Automation",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544081",
+    "exchangeCodeNsi": "JYOTICNC",
+    "bseRic": "JYCA.BO",
+    "nseRic": "JYCA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003913",
+    "commonName": "Cie Automotive India",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532756",
+    "exchangeCodeNsi": "CIEINDIA",
+    "bseRic": "CIEA.BO",
+    "nseRic": "CIEA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0005090",
+    "commonName": "Craftsman Automation",
+    "mgIndustry": "Construction Services",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543276",
+    "exchangeCodeNsi": "CRAFTSMAN",
+    "bseRic": "CRAF.BO",
+    "nseRic": "CRAF.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004187",
+    "commonName": "Jbm Auto",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532605",
+    "exchangeCodeNsi": "JBMA",
+    "bseRic": "JBMA.BO",
+    "nseRic": "JBMA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0005605",
+    "commonName": "Ask Automotive",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544022",
+    "exchangeCodeNsi": "ASKAUTOLTD",
+    "bseRic": "ASKA.BO",
+    "nseRic": "ASKA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003456",
+    "commonName": "Lumax Auto Technologies",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532796",
+    "exchangeCodeNsi": "LUMAXTECH",
+    "bseRic": "LUAT.BO",
+    "nseRic": "LUAT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003392",
+    "commonName": "Jamna Auto Industries",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520051",
+    "exchangeCodeNsi": "JAMNAAUTO",
+    "bseRic": "JMNA.BO",
+    "nseRic": "JMNA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003737",
+    "commonName": "Automotive Axles",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "505010",
+    "exchangeCodeNsi": "AUTOAXLES",
+    "bseRic": "ATOA.BO",
+    "nseRic": "ATOA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004259",
+    "commonName": "Ndr Auto Components",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543214",
+    "exchangeCodeNsi": "NDRAUTO",
+    "bseRic": "NDRA.BO",
+    "nseRic": "NDRA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004300",
+    "commonName": "Talbros Automotive Component",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "505160",
+    "exchangeCodeNsi": "TALBROAUTO",
+    "bseRic": "TALB.BO",
+    "nseRic": "TALB.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003747",
+    "commonName": "Atul Auto",
+    "mgIndustry": "Auto & Truck Manufacturers",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531795",
+    "exchangeCodeNsi": "ATULAUTO",
+    "bseRic": "ATUL.BO",
+    "nseRic": "ATUL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000332",
+    "commonName": "Automobile Corporation Of Goa",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "505036",
+    "exchangeCodeNsi": "",
+    "bseRic": "ATOG.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bullish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003784",
+    "commonName": "Rico Auto Industries",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520008",
+    "exchangeCodeNsi": "RICOAUTO",
+    "bseRic": "RAUT.BO",
+    "nseRic": "RAUT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0004446",
+    "commonName": "Automotive Stampings And Assem",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520119",
+    "exchangeCodeNsi": "ASAL",
+    "bseRic": "ASAS.BO",
+    "nseRic": "ASAS.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003508",
+    "commonName": "Munjal Auto Industries",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520059",
+    "exchangeCodeNsi": "MUNJALAU",
+    "bseRic": "MUAU.BO",
+    "nseRic": "MUAU.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0001308",
+    "commonName": "Sar Auto Products",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "538992",
+    "exchangeCodeNsi": "",
+    "bseRic": "SARO.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000079",
+    "commonName": "Affordable Robotic & Automation",
+    "mgIndustry": "Misc. Capital Goods",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "541402",
+    "exchangeCodeNsi": "AFFORDABLE",
+    "bseRic": "AFFO.BO",
+    "nseRic": "AFFO.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0006330",
+    "commonName": "Patil Automation",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "PATILAUTOM",
+    "bseRic": "",
+    "nseRic": "PATU.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": "NA"
+    }
+  },
+  {
+    "id": "S0004066",
+    "commonName": "Shivam Autotech",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532776",
+    "exchangeCodeNsi": "SHIVAMAUTO",
+    "bseRic": "SHAU.BO",
+    "nseRic": "SHAU.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004306",
+    "commonName": "Autoline Industries",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532797",
+    "exchangeCodeNsi": "AUTOIND",
+    "bseRic": "AUIN.BO",
+    "nseRic": "AUIN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0000430",
+    "commonName": "Majestic Auto",
+    "mgIndustry": "Business Services",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500267",
+    "exchangeCodeNsi": "",
+    "bseRic": "MJST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003904",
+    "commonName": "Ppap Automotive",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532934",
+    "exchangeCodeNsi": "PPAP",
+    "bseRic": "PPAP.BO",
+    "nseRic": "PPAP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000310",
+    "commonName": "Pritika Auto Industries",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539359",
+    "exchangeCodeNsi": "PRITIKAUTO",
+    "bseRic": "PITI.BO",
+    "nseRic": "PITI.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000516",
+    "commonName": "Competent Automobiles Co",
+    "mgIndustry": "Retail (Specialty)",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531041",
+    "exchangeCodeNsi": "",
+    "bseRic": "CPA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0004152",
+    "commonName": "Omax Autos",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520021",
+    "exchangeCodeNsi": "OMAXAUTO",
+    "bseRic": "OMXA.BO",
+    "nseRic": "OMXA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002343",
+    "commonName": "G.g. Automotive Gears",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531399",
+    "exchangeCodeNsi": "",
+    "bseRic": "GGAU.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004216",
+    "commonName": "Setco Automotive",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "505075",
+    "exchangeCodeNsi": "SETCO",
+    "bseRic": "SETC.BO",
+    "nseRic": "SETC.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bearish",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0005777",
+    "commonName": "Emmforce Autotech",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544166",
+    "exchangeCodeNsi": null,
+    "bseRic": "EMMF.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000799",
+    "commonName": "Akar Auto Industries",
+    "mgIndustry": "Appliance & Tool",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "530621",
+    "exchangeCodeNsi": "",
+    "bseRic": "AKAA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0005579",
+    "commonName": "Canarys Automations",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "CANARYS",
+    "bseRic": "",
+    "nseRic": "CANA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0005937",
+    "commonName": "Forge Auto International",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "FORGEAUTO",
+    "bseRic": "",
+    "nseRic": "FORG.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0001210",
+    "commonName": "Sal Automotive",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539353",
+    "exchangeCodeNsi": "",
+    "bseRic": "SALU.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000886",
+    "commonName": "Bhagwati Autocast",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "504646",
+    "exchangeCodeNsi": "",
+    "bseRic": "BGAT.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0002538",
+    "commonName": "Hira Automobiles",
+    "mgIndustry": "Retail (Specialty)",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531743",
+    "exchangeCodeNsi": "",
+    "bseRic": "HRAA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000802",
+    "commonName": "Porwal Auto Components",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532933",
+    "exchangeCodeNsi": "",
+    "bseRic": "PAUC.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0002756",
+    "commonName": "Auto Pins India",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531994",
+    "exchangeCodeNsi": "",
+    "bseRic": "AUPI.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0002629",
+    "commonName": "Autoriders International",
+    "mgIndustry": "Rental & Leasing",
+    "mgSector": "Services",
+    "stockType": "Equity",
+    "exchangeCodeBse": "512277",
+    "exchangeCodeNsi": "",
+    "bseRic": "AUTO.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0001012",
+    "commonName": "G S Auto International",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513059",
+    "exchangeCodeNsi": "",
+    "bseRic": "GSAI.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002624",
+    "commonName": "Kailash Auto Finance",
+    "mgIndustry": "Consumer Financial Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "511357",
+    "exchangeCodeNsi": "",
+    "bseRic": "KAFN.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0005796",
+    "commonName": "Mandeep Auto Industries",
+    "mgIndustry": "Constr. - Supplies & Fixtures",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "MANDEEP",
+    "bseRic": "",
+    "nseRic": "MNDE.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0001078",
+    "commonName": "Sibar Auto Parts",
+    "mgIndustry": "Auto & Truck Parts",
+    "mgSector": "Consumer Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520141",
+    "exchangeCodeNsi": "",
+    "bseRic": "SIAP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0005884",
+    "commonName": "Resourceful Automobile",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544236",
+    "exchangeCodeNsi": null,
+    "bseRic": "RESO.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "E00246",
+    "commonName": "Nippon India Nifty Auto Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "AUTOBEES",
+    "bseRic": "",
+    "nseRic": "NIPY.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "E00321",
+    "commonName": "Absl Ftttdn",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "543450",
+    "exchangeCodeNsi": "AUTOIETF",
+    "bseRic": "ICIY.BO",
+    "nseRic": "ICIY.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002005",
+    "commonName": "Autopal Industries",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "517286",
+    "exchangeCodeNsi": "",
+    "bseRic": "AUTP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0005433",
+    "commonName": "Automobile Products Of India",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "505032",
+    "exchangeCodeNsi": null,
+    "bseRic": "AURI.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0002037",
+    "commonName": "Kilburn Office Automation",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "523218",
+    "exchangeCodeNsi": "",
+    "bseRic": "KLBR.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0002728",
+    "commonName": "Sidh Automobiles",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539983",
+    "exchangeCodeNsi": "",
+    "bseRic": "SIDA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  }
+]

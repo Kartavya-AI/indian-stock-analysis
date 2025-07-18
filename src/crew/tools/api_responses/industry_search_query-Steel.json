@@ -1,0 +1,802 @@
+[
+  {
+    "id": "S0003097",
+    "commonName": "Jsw Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500228",
+    "exchangeCodeNsi": "JSWSTEEL",
+    "bseRic": "JSTL.BO",
+    "nseRic": "JSTL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003026",
+    "commonName": "Tata Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500470",
+    "exchangeCodeNsi": "TATASTEEL",
+    "bseRic": "TISC.BO",
+    "nseRic": "TISC.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003069",
+    "commonName": "Jindal Steel And Power",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532286",
+    "exchangeCodeNsi": "JINDALSTEL",
+    "bseRic": "JNSP.BO",
+    "nseRic": "JNSP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0005388",
+    "commonName": "Nmdc Steel",
+    "mgIndustry": "Metal Mining",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543768",
+    "exchangeCodeNsi": "NSLNISP",
+    "bseRic": "NMDS.BO",
+    "nseRic": "NMDS.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004001",
+    "commonName": "Electrosteel Castings",
+    "mgIndustry": "Constr. - Supplies & Fixtures",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500128",
+    "exchangeCodeNsi": "ELECTCAST",
+    "bseRic": "ELST.BO",
+    "nseRic": "ELST.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003513",
+    "commonName": "Kalyani Steels",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500235",
+    "exchangeCodeNsi": "KSL",
+    "bseRic": "KLSL.BO",
+    "nseRic": "KLSL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0006351",
+    "commonName": "Sambhv Steel Tubes",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544430",
+    "exchangeCodeNsi": "SAMBHV",
+    "bseRic": "SMBV.BO",
+    "nseRic": "SMBV.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": "NA"
+    }
+  },
+  {
+    "id": "S0000358",
+    "commonName": "Steelcast",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513517",
+    "exchangeCodeNsi": "STEELCAS",
+    "bseRic": "STCL.BO",
+    "nseRic": "STCL.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0004456",
+    "commonName": "Rama Steel Tubes",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539309",
+    "exchangeCodeNsi": "RAMASTEEL",
+    "bseRic": "RAMA.BO",
+    "nseRic": "RAMA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0004305",
+    "commonName": "Msp Steel And Power",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532650",
+    "exchangeCodeNsi": "MSPL",
+    "bseRic": "MSPO.BO",
+    "nseRic": "MSPO.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000109",
+    "commonName": "Bajaj Steel Industries",
+    "mgIndustry": "Constr. & Agric. Machinery",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "507944",
+    "exchangeCodeNsi": "",
+    "bseRic": "BJST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003860",
+    "commonName": "Steel Exchange India",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "534748",
+    "exchangeCodeNsi": "STEELXIND",
+    "bseRic": "STEI.BO",
+    "nseRic": "STEI.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000145",
+    "commonName": "Beekay Steel Industries",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539018",
+    "exchangeCodeNsi": "",
+    "bseRic": "BKST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002063",
+    "commonName": "Orissa Sponge Iron And Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "504864",
+    "exchangeCodeNsi": "",
+    "bseRic": "OSSP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0004269",
+    "commonName": "Mahamaya Steel Industries",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513554",
+    "exchangeCodeNsi": "MAHASTEEL",
+    "bseRic": "MAHA.BO",
+    "nseRic": "MAHA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0001006",
+    "commonName": "Panchmahal Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513511",
+    "exchangeCodeNsi": "",
+    "bseRic": "PANS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004503",
+    "commonName": "Visa Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532721",
+    "exchangeCodeNsi": "VISASTEEL",
+    "bseRic": "VISA.BO",
+    "nseRic": "VISA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0004787",
+    "commonName": "Shiv Aum Steels",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "",
+    "exchangeCodeNsi": "SHIVAUM",
+    "bseRic": "",
+    "nseRic": "SHVU.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004105",
+    "commonName": "Manaksia Steels",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539044",
+    "exchangeCodeNsi": "MANAKSTEEL",
+    "bseRic": "MANM.BO",
+    "nseRic": "MANM.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0001665",
+    "commonName": "Ahmedabad Steelcraft",
+    "mgIndustry": "Constr. - Supplies & Fixtures",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "522273",
+    "exchangeCodeNsi": "",
+    "bseRic": "AHMS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005594",
+    "commonName": "Transteel Seating Technologies",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "TRANSTEEL",
+    "bseRic": "",
+    "nseRic": "TRAT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002078",
+    "commonName": "Rathi Steel And Power",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "504903",
+    "exchangeCodeNsi": "",
+    "bseRic": "RATS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0000697",
+    "commonName": "India Steel Works",
+    "mgIndustry": "Constr. - Supplies & Fixtures",
+    "mgSector": "Capital Goods",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513361",
+    "exchangeCodeNsi": "",
+    "bseRic": "INST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000937",
+    "commonName": "Scan Steels",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "511672",
+    "exchangeCodeNsi": "",
+    "bseRic": "SANS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0004800",
+    "commonName": "Steel City Securities",
+    "mgIndustry": "Investment Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "",
+    "exchangeCodeNsi": "STEELCITY",
+    "bseRic": "",
+    "nseRic": "SCYS.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004451",
+    "commonName": "S A L Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532604",
+    "exchangeCodeNsi": "SALSTEEL",
+    "bseRic": "SALS.BO",
+    "nseRic": "SALS.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001383",
+    "commonName": "Kanishk Steel Industries",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513456",
+    "exchangeCodeNsi": "",
+    "bseRic": "KNSK.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000813",
+    "commonName": "Mideast Integrated Steels",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "540744",
+    "exchangeCodeNsi": "",
+    "bseRic": "MIDS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0004484",
+    "commonName": "Prakash Steelage",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "533239",
+    "exchangeCodeNsi": "PRAKASHSTL",
+    "bseRic": "PRAA.BO",
+    "nseRic": "PRAA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0005928",
+    "commonName": "Aditya Ultra Steel",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "AUSL",
+    "bseRic": "",
+    "nseRic": "ADIU.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0001003",
+    "commonName": "Riddhi Steel And Tube",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "540082",
+    "exchangeCodeNsi": "",
+    "bseRic": "RIDD.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0005997",
+    "commonName": "Abha Power And Steel",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "ABHAPOWER",
+    "bseRic": "",
+    "nseRic": "ABHA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0001466",
+    "commonName": "Nova Iron And Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513566",
+    "exchangeCodeNsi": "",
+    "bseRic": "NIST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0006031",
+    "commonName": "Newmalayalam Steel",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "NMSTEEL",
+    "bseRic": "",
+    "nseRic": "NEWY.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0001462",
+    "commonName": "Ashirwad Steels And Industries",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "526847",
+    "exchangeCodeNsi": "",
+    "bseRic": "ASSI.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002777",
+    "commonName": "Sru Steels",
+    "mgIndustry": "Misc. Fabricated Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "540914",
+    "exchangeCodeNsi": "",
+    "bseRic": "SRUS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004625",
+    "commonName": "Grand Foundry",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513343",
+    "exchangeCodeNsi": "GFSTEELS",
+    "bseRic": "GRND.BO",
+    "nseRic": "GRND.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0001343",
+    "commonName": "Inducto Steel",
+    "mgIndustry": "Misc. Transportation",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532001",
+    "exchangeCodeNsi": "",
+    "bseRic": "INDS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0001428",
+    "commonName": "Modern Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513303",
+    "exchangeCodeNsi": "",
+    "bseRic": "MSTL.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0001142",
+    "commonName": "Rishabh Digha Steel & Allied Prd",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531539",
+    "exchangeCodeNsi": "",
+    "bseRic": "RDSA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002054",
+    "commonName": "Marmagoa Steels",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513355",
+    "exchangeCodeNsi": "",
+    "bseRic": "MRMG.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0000495",
+    "commonName": "Shree Steel Wire Ropes",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "513488",
+    "exchangeCodeNsi": "",
+    "bseRic": "SHSW.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001986",
+    "commonName": "East Coast Steel",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "520081",
+    "exchangeCodeNsi": "",
+    "bseRic": "ECST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0001720",
+    "commonName": "Shree Precoated Steels",
+    "mgIndustry": "Real Estate Operations",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "533110",
+    "exchangeCodeNsi": "",
+    "bseRic": "SHEP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0002644",
+    "commonName": "Facor Steels",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532657",
+    "exchangeCodeNsi": "",
+    "bseRic": "FCST.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0002785",
+    "commonName": "Gopal Iron And Steels Co Gujarat",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531913",
+    "exchangeCodeNsi": "",
+    "bseRic": "GOIS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002883",
+    "commonName": "Bengal Steel Industries",
+    "mgIndustry": "Iron & Steel",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "512404",
+    "exchangeCodeNsi": "",
+    "bseRic": "BENG.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0005660",
+    "commonName": "Meenakshi Steel Industries",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "512505",
+    "exchangeCodeNsi": null,
+    "bseRic": "MEEN.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0002049",
+    "commonName": "Chase Bright Steel",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "504671",
+    "exchangeCodeNsi": "",
+    "bseRic": "CHAS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "S0002851",
+    "commonName": "Prabhu Steel Industries",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506042",
+    "exchangeCodeNsi": "",
+    "bseRic": "PRAB.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  }
+]

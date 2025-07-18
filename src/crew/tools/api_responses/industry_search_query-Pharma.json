@@ -1,0 +1,802 @@
+[
+  {
+    "id": "S0003089",
+    "commonName": "Sun Pharmaceutical Industries",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524715",
+    "exchangeCodeNsi": "SUNPHARMA",
+    "bseRic": "SUN.BO",
+    "nseRic": "SUN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005430",
+    "commonName": "Mankind Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543904",
+    "exchangeCodeNsi": "MANKIND",
+    "bseRic": "MNKI.BO",
+    "nseRic": "MNKI.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003132",
+    "commonName": "Aurobindo Pharma",
+    "mgIndustry": "Major Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524804",
+    "exchangeCodeNsi": "AUROPHARMA",
+    "bseRic": "ARBN.BO",
+    "nseRic": "ARBN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003191",
+    "commonName": "Glenmark Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532296",
+    "exchangeCodeNsi": "GLENMARK",
+    "bseRic": "GLEN.BO",
+    "nseRic": "GLEN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003695",
+    "commonName": "Glaxosmithkline Pharmaceutical",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500660",
+    "exchangeCodeNsi": "GLAXO",
+    "bseRic": "GLAX.BO",
+    "nseRic": "GLAX.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0003497",
+    "commonName": "Ajanta Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532331",
+    "exchangeCodeNsi": "AJANTPHARM",
+    "bseRic": "AJPH.BO",
+    "nseRic": "AJPH.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003201",
+    "commonName": "Gland Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543245",
+    "exchangeCodeNsi": "GLAND",
+    "bseRic": "GLAD.BO",
+    "nseRic": "GLAD.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003167",
+    "commonName": "Wockhardt",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532300",
+    "exchangeCodeNsi": "WOCKPHARMA",
+    "bseRic": "WCKH.BO",
+    "nseRic": "WCKH.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0005338",
+    "commonName": "Piramal Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543635",
+    "exchangeCodeNsi": "PPLPHARMA",
+    "bseRic": "PIRM.BO",
+    "nseRic": "PIRM.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003418",
+    "commonName": "J B Chemicals And Pharmaceutical",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506943",
+    "exchangeCodeNsi": "JBCHEPHARM",
+    "bseRic": "JBCH.BO",
+    "nseRic": "JBCH.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bullish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005848",
+    "commonName": "Emcure Pharmaceuticals",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544210",
+    "exchangeCodeNsi": "EMCURE",
+    "bseRic": "EMCU.BO",
+    "nseRic": "EMCU.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003407",
+    "commonName": "Astrazeneca Pharma India",
+    "mgIndustry": "Major Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506820",
+    "exchangeCodeNsi": "ASTRAZEN",
+    "bseRic": "ASTR.BO",
+    "nseRic": "ASTR.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": "NA"
+    }
+  },
+  {
+    "id": "S0003266",
+    "commonName": "Alembic Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "533573",
+    "exchangeCodeNsi": "APLLTD",
+    "bseRic": "ALEM.BO",
+    "nseRic": "ALEM.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003353",
+    "commonName": "Jubilant Pharmova",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "530019",
+    "exchangeCodeNsi": "JUBLPHARMA",
+    "bseRic": "JUBA.BO",
+    "nseRic": "JUBA.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003373",
+    "commonName": "Natco Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524816",
+    "exchangeCodeNsi": "NATCOPHARM",
+    "bseRic": "NATP.BO",
+    "nseRic": "NATP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003283",
+    "commonName": "Marksans Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524404",
+    "exchangeCodeNsi": "MARKSANS",
+    "bseRic": "MARK.BO",
+    "nseRic": "MARK.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005401",
+    "commonName": "Aarti Pharmalabs",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543748",
+    "exchangeCodeNsi": "AARTIPHARM",
+    "bseRic": "AARP.BO",
+    "nseRic": "AARP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0005876",
+    "commonName": "Akums Drugs And Pharmaceuticals",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544222",
+    "exchangeCodeNsi": "AKUMS",
+    "bseRic": "AKUM.BO",
+    "nseRic": "AKUM.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0004586",
+    "commonName": "Orchid Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524372",
+    "exchangeCodeNsi": "ORCHPHARMA",
+    "bseRic": "ORCD.BO",
+    "nseRic": "ORCD.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003487",
+    "commonName": "Sms Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532815",
+    "exchangeCodeNsi": "SMSPHARMA",
+    "bseRic": "SMSP.BO",
+    "nseRic": "SMSP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003618",
+    "commonName": "Jagsonpal Pharmaceuticals",
+    "mgIndustry": "Major Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "507789",
+    "exchangeCodeNsi": "JAGSNPHARM",
+    "bseRic": "JGSN.BO",
+    "nseRic": "JGSN.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0003198",
+    "commonName": "Bliss Gvs Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506197",
+    "exchangeCodeNsi": "BLISSGVS",
+    "bseRic": "BLIS.BO",
+    "nseRic": "BLIS.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000445",
+    "commonName": "Kwality Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539997",
+    "exchangeCodeNsi": "",
+    "bseRic": "KWAL.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0003666",
+    "commonName": "Lincoln Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531633",
+    "exchangeCodeNsi": "LINCOLN",
+    "bseRic": "LINP.BO",
+    "nseRic": "LINP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000044",
+    "commonName": "Anuh Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506260",
+    "exchangeCodeNsi": "ANUHPHR",
+    "bseRic": "ANUH.BO",
+    "nseRic": "ANUH.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0000245",
+    "commonName": "Jenburkt Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524731",
+    "exchangeCodeNsi": "",
+    "bseRic": "JENA.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005428",
+    "commonName": "Infinium Pharmachem",
+    "mgIndustry": "Chemical Manufacturing",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "INFINIUM",
+    "bseRic": "",
+    "nseRic": "INFM.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0000157",
+    "commonName": "Fredun Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539730",
+    "exchangeCodeNsi": "",
+    "bseRic": "FRED.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004807",
+    "commonName": "Balaxi Pharmaceuticals",
+    "mgIndustry": "Major Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "",
+    "exchangeCodeNsi": "BALAXI",
+    "bseRic": "",
+    "nseRic": "BALX.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0000325",
+    "commonName": "Pharmaids Pharmaceuticals",
+    "mgIndustry": "Major Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524572",
+    "exchangeCodeNsi": "",
+    "bseRic": "PPHM.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0004540",
+    "commonName": "Bafna Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532989",
+    "exchangeCodeNsi": "BAFNAPH",
+    "bseRic": "BAFP.BO",
+    "nseRic": "BAFP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0000234",
+    "commonName": "Aarey Drugs & Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524412",
+    "exchangeCodeNsi": "AAREYDRUGS",
+    "bseRic": "ADPH.BO",
+    "nseRic": "ADPH.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0004249",
+    "commonName": "Bal Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524824",
+    "exchangeCodeNsi": "BALPHARMA",
+    "bseRic": "BALP.BO",
+    "nseRic": "BALP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Neutral",
+      "longTermTrends": "Moderately Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0000181",
+    "commonName": "Genpharmasec",
+    "mgIndustry": "Chemical Manufacturing",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531592",
+    "exchangeCodeNsi": "",
+    "bseRic": "GENP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0006384",
+    "commonName": "Asston Pharmaceuticals",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "544445",
+    "exchangeCodeNsi": null,
+    "bseRic": "ASSN.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": "NA"
+    }
+  },
+  {
+    "id": "S0001082",
+    "commonName": "Biogen Pharmachem Industries",
+    "mgIndustry": "Investment Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "531752",
+    "exchangeCodeNsi": "",
+    "bseRic": "BIOG.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0003746",
+    "commonName": "Biofil Chemicals And Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524396",
+    "exchangeCodeNsi": "BIOFILCHEM",
+    "bseRic": "BIOF.BO",
+    "nseRic": "BIOF.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0005302",
+    "commonName": "Dipna Pharmachem",
+    "mgIndustry": "Chemical Manufacturing",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "543594",
+    "exchangeCodeNsi": null,
+    "bseRic": "DIPN.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Moderately Bearish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Moderately Bullish"
+    }
+  },
+  {
+    "id": "S0002539",
+    "commonName": "Johnson Pharmacare",
+    "mgIndustry": "Misc. Financial Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532154",
+    "exchangeCodeNsi": "",
+    "bseRic": "JOHS.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002247",
+    "commonName": "Bandaram Pharma Packtech",
+    "mgIndustry": "Paper & Paper Products",
+    "mgSector": "Basic Materials",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524602",
+    "exchangeCodeNsi": "",
+    "bseRic": "BPPL.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0000254",
+    "commonName": "Chandra Bhagat Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "542934",
+    "exchangeCodeNsi": "",
+    "bseRic": "CHAB.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "NA",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0005528",
+    "commonName": "Mono Pharmacare",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": null,
+    "exchangeCodeNsi": "MONOPHARMA",
+    "bseRic": "",
+    "nseRic": "MONP.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0002698",
+    "commonName": "Omkar Pharmachem",
+    "mgIndustry": "Misc. Financial Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "532167",
+    "exchangeCodeNsi": "",
+    "bseRic": "OMKR.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "NA",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001666",
+    "commonName": "Bacil Pharma",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524516",
+    "exchangeCodeNsi": "",
+    "bseRic": "BACP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Bearish"
+    }
+  },
+  {
+    "id": "S0001369",
+    "commonName": "Chemo Pharma Laboratories",
+    "mgIndustry": "Misc. Financial Services",
+    "mgSector": "Financial",
+    "stockType": "Equity",
+    "exchangeCodeBse": "506365",
+    "exchangeCodeNsi": "",
+    "bseRic": "CHEP.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0001007",
+    "commonName": "Link Pharma Chem",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "524748",
+    "exchangeCodeNsi": "",
+    "bseRic": "LIPC.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bearish",
+      "longTermTrends": "Neutral",
+      "overallRating": "Moderately Bearish"
+    }
+  },
+  {
+    "id": "S0000897",
+    "commonName": "Prism Medico And Pharmacy",
+    "mgIndustry": "Personal & Household Prods.",
+    "mgSector": "Consumer/Non-Cyclical",
+    "stockType": "Equity",
+    "exchangeCodeBse": "512217",
+    "exchangeCodeNsi": "",
+    "bseRic": "PRIE.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bearish",
+      "overallRating": "Neutral"
+    }
+  },
+  {
+    "id": "S0000831",
+    "commonName": "Ganga Pharmaceuticals",
+    "mgIndustry": "Biotechnology & Drugs",
+    "mgSector": "Healthcare",
+    "stockType": "Equity",
+    "exchangeCodeBse": "539680",
+    "exchangeCodeNsi": "",
+    "bseRic": "GNPH.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  },
+  {
+    "id": "E00110",
+    "commonName": "Nippon India Nifty Pharma Etf",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Fund",
+    "exchangeCodeBse": "",
+    "exchangeCodeNsi": "PHARMABEES",
+    "bseRic": "",
+    "nseRic": "NIPT.NS",
+    "activeStockTrends": {
+      "shortTermTrends": "Bullish",
+      "longTermTrends": "Bullish",
+      "overallRating": "Bullish"
+    }
+  },
+  {
+    "id": "S0002217",
+    "commonName": "Jk Pharmachem",
+    "mgIndustry": "",
+    "mgSector": "",
+    "stockType": "Equity",
+    "exchangeCodeBse": "500218",
+    "exchangeCodeNsi": "",
+    "bseRic": "JKPC.BO",
+    "nseRic": "",
+    "activeStockTrends": {
+      "shortTermTrends": "NA",
+      "longTermTrends": "NA",
+      "overallRating": null
+    }
+  }
+]

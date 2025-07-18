@@ -1,0 +1,158 @@
+{
+  "BSE_52WeekHighLow": {
+    "high52Week": [
+      {
+        "ticker": "RMPH.BO",
+        "company": "Rama Phosphates",
+        "price": 151.6,
+        "52_week_high": 149.0
+      },
+      {
+        "ticker": "ZERO.BO",
+        "company": "Absl Fmurrn",
+        "price": 109.56,
+        "52_week_high": 109.53
+      },
+      {
+        "ticker": "DSPE.BO",
+        "company": "Liquid Etf",
+        "price": 1082.22,
+        "52_week_high": 1081.78
+      },
+      {
+        "ticker": "BAJN.BO",
+        "company": "Bajaj Fin Etf-F",
+        "price": 1039.71,
+        "52_week_high": 1039.29
+      },
+      {
+        "ticker": "MIRR.BO",
+        "company": "Liquidplus Etf",
+        "price": 1041.97,
+        "52_week_high": 1041.55
+      },
+      {
+        "ticker": "M100.BO",
+        "company": "Motilal Oswal Midcap 100 Etf",
+        "price": 63.6,
+        "52_week_high": 22.0
+      }
+    ],
+    "low52Week": [
+      {
+        "ticker": "ANJI.BO",
+        "company": "Anjani Foods",
+        "price": 26.18,
+        "52_week_low": 26.0
+      },
+      {
+        "ticker": "SAMY.BO",
+        "company": "Samyak International",
+        "price": 23.81,
+        "52_week_low": 23.26
+      },
+      {
+        "ticker": "INDN.BO",
+        "company": "Indianivesh",
+        "price": 9.4,
+        "52_week_low": 9.07
+      },
+      {
+        "ticker": "RIUN.BO",
+        "company": "Rich Universe Network",
+        "price": 8.7,
+        "52_week_low": 8.36
+      },
+      {
+        "ticker": "VASD.BO",
+        "company": "Vasudhagama Enterprises",
+        "price": 4.29,
+        "52_week_low": 4.04
+      },
+      {
+        "ticker": "SUSY.BO",
+        "company": "Suncity Synthetics",
+        "price": 14.73,
+        "52_week_low": 14.03
+      }
+    ]
+  },
+  "NSE_52WeekHighLow": {
+    "high52Week": [
+      {
+        "ticker": "BARE.NS",
+        "company": "Bharat Bond Etf April 2031",
+        "price": 1371.47,
+        "52_week_high": 1370.23
+      },
+      {
+        "ticker": "ICIK.NS",
+        "company": "Icici Prudential Nifty 10 Yr Benchmark G-Sec Etf",
+        "price": 257.91,
+        "52_week_high": 262.0
+      },
+      {
+        "ticker": "ZERO.NS",
+        "company": "Absl Fmurrn",
+        "price": 109.57,
+        "52_week_high": 112.77
+      },
+      {
+        "ticker": "CFSL.NS",
+        "company": "Choice International",
+        "price": 755.4,
+        "52_week_high": 762.0
+      },
+      {
+        "ticker": "MOTX.NS",
+        "company": "Monext50 Etf",
+        "price": 67.81,
+        "52_week_high": 65.17
+      },
+      {
+        "ticker": "GTHM.NS",
+        "company": "Gujarat Themis Biosyn",
+        "price": 369.4,
+        "52_week_high": 375.0
+      }
+    ],
+    "low52Week": [
+      {
+        "ticker": "NIRM.NS",
+        "company": "Nirman Agri Gentics",
+        "price": 153.0,
+        "52_week_low": 161.0
+      },
+      {
+        "ticker": "PAAG.NS",
+        "company": "Paragon Fine And Specialit Checal",
+        "price": 60.95,
+        "52_week_low": 61.1
+      },
+      {
+        "ticker": "IICM.NS",
+        "company": "Top15i Etf",
+        "price": 10.27,
+        "52_week_low": 10.3
+      },
+      {
+        "ticker": "SUGA.NS",
+        "company": "Sungarner Energies",
+        "price": 256.25,
+        "52_week_low": 255.55
+      },
+      {
+        "ticker": "JINW.NS",
+        "company": "Jindal Worldwide",
+        "price": 42.1,
+        "52_week_low": 41.05
+      },
+      {
+        "ticker": "EMKY.NS",
+        "company": "Emkay Taps And Cutting Tools",
+        "price": 204.75,
+        "52_week_low": 192.5
+      }
+    ]
+  }
+}

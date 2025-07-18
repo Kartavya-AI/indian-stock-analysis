@@ -1,0 +1,5441 @@
+[
+  {
+    "id": "MF010743",
+    "schemeName": "HDFC Annual Interval Fund Series I Plan B Regular Reinvestment of Income Dis cum capital Wdrl Opt",
+    "isin": "INF179K01G79",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF008078",
+    "schemeName": "HDFC Arbitrage Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01UU8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF010733",
+    "schemeName": "HDFC Annual Interval Fund Series I Plan B Direct Reinvestment of Income Dis cum capital Wdrl Opt",
+    "isin": "INF179K01G20",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003684",
+    "schemeName": "HDFC Arbitrage Fund Retail Growth",
+    "isin": "INF179K01319",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF003707",
+    "schemeName": "HDFC Arbitrage Fund Retail Monthly Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009773",
+    "schemeName": "HDFC Arbitrage Fund Retail Quarterly Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01335",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF003685",
+    "schemeName": "HDFC Arbitrage Fund Retail Quarterly Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01327",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008345",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Direct Monthly Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KS8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009769",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Direct Monthly Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KR0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008346",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Direct Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KQ2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009768",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Direct Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KP4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009771",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Monthly Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KN9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF004218",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Normal Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KM1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008344",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Monthly Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KO7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF009770",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Normal Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1KL3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF004220",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Plan Growth",
+    "isin": "INF179K01343",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008343",
+    "schemeName": "HDFC Arbitrage Fund Wholesale Plan Growth Option Direct Plan",
+    "isin": "INF179KA1KT6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF008084",
+    "schemeName": "HDFC Arbitrage Fund-Direct Quarterly Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01UV6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF004740",
+    "schemeName": "HDFC Banking & PSU Debt Fund Regular Plan Growth Option",
+    "isin": "INF179KA1JC4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002450",
+    "schemeName": "HDFC Banking & PSU Debt Fund Direct Plan Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1JA8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006828",
+    "schemeName": "HDFC Banking & Financial Services Fund Regular Growth",
+    "isin": "INF179KC1BJ4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005379",
+    "schemeName": "HDFC Banking & PSU Debt Fund Direct Plan Growth Option",
+    "isin": "INF179KA1IZ7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002830",
+    "schemeName": "HDFC Banking & PSU Debt Fund Direct Plan Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1JB6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006830",
+    "schemeName": "HDFC Banking & Financial Services Fund Regular Payout of Income Distribution cum capital withdrawal",
+    "isin": "INF179KC1BK2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006831",
+    "schemeName": "HDFC Banking & Financial Services Fund Direct Payout of Income Distribution cum capital withdrawal",
+    "isin": "INF179KC1BH8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005567",
+    "schemeName": "HDFC Childrens Fund",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003873",
+    "schemeName": "HDFC Balanced Advantage Fund Growth",
+    "isin": "INF179K01830",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF006822",
+    "schemeName": "HDFC Banking & Financial Services Fund Direct Growth",
+    "isin": "INF179KC1BG0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015855",
+    "schemeName": "HDFC Charity Fund for Cancer Cure 75% Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HD4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006833",
+    "schemeName": "HDFC Banking & Financial Services Fund Direct Reinvestment of Income Distribution cum capital wdrl",
+    "isin": "INF179KC1BI6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000353",
+    "schemeName": "HDFC Balanced Advantage Fund Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01814",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF015852",
+    "schemeName": "HDFC Charity Fund for Cancer Cure 50% Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HC6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003874",
+    "schemeName": "HDFC Balanced Advantage Fund Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01822",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005147",
+    "schemeName": "HDFC Balanced Advantage Fund Direct Plan Growth Option",
+    "isin": "INF179K01WA6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003877",
+    "schemeName": "HDFC Balanced Advantage Fund Direct Plan Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VZ5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF015660",
+    "schemeName": "HDFC BSE 500 Index Fund Direct Growth",
+    "isin": "INF179KC1GG9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005572",
+    "schemeName": "HDFC Childrens Fund Direct Plan",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003469",
+    "schemeName": "HDFC BSE Sensex Index Fund-Direct Plan",
+    "isin": "INF179K01WN9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001733",
+    "schemeName": "HDFC Balanced Advantage Fund Direct Plan Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VY8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003176",
+    "schemeName": "HDFC BSE Sensex Index Fund",
+    "isin": "INF179K01LA9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015661",
+    "schemeName": "HDFC BSE 500 Index Fund Regular Growth",
+    "isin": "INF179KC1GH7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016132",
+    "schemeName": "HDFC Business Cycle Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1ED1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015201",
+    "schemeName": "HDFC Business Cycle Fund Regular Growth",
+    "isin": "INF179KC1EB5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015202",
+    "schemeName": "HDFC Business Cycle Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EC3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015204",
+    "schemeName": "HDFC Business Cycle Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DZ6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002831",
+    "schemeName": "HDFC Banking & PSU Debt Fund Regular Plan Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1JE0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006840",
+    "schemeName": "HDFC Banking & Financial Services Fund Regular Reinvestment of Income Distribution cum capital wdrl",
+    "isin": "INF179KC1BL0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015854",
+    "schemeName": "HDFC Charity Fund for Cancer Cure 75% Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HB8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015853",
+    "schemeName": "HDFC Charity Fund for Cancer Cure 50% Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HA0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016131",
+    "schemeName": "HDFC Business Cycle Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EA7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015203",
+    "schemeName": "HDFC Business Cycle Fund Direct Growth",
+    "isin": "INF179KC1DY9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002453",
+    "schemeName": "HDFC Banking & PSU Debt Fund Regular Plan Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1JD2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004952",
+    "schemeName": "HDFC BSE Sensex ETF - Growth",
+    "isin": "INF179KC1HX2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009763",
+    "schemeName": "HDFC Arbitrage Fund-Direct Quarterly Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01UW4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT007"
+  },
+  {
+    "id": "MF015450",
+    "schemeName": "HDFC BSE 500 ETF",
+    "isin": "INF179KC1EZ4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005345",
+    "schemeName": "HDFC Childrens Fund Direct Plan(Lock-in)",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005874",
+    "schemeName": "HDFC Corporate Bond Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01XD8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005637",
+    "schemeName": "HDFC Corporate Bond Fund Direct Option Normal Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1D17",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005581",
+    "schemeName": "HDFC Childrens Fund(Lock-in)",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005905",
+    "schemeName": "HDFC Corporate Bond Fund Direct Option Normal Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1D09",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005641",
+    "schemeName": "HDFC Corporate Bond Fund Regular Option Normal Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1D33",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002895",
+    "schemeName": "HDFC Corporate Bond Fund Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01DE8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005205",
+    "schemeName": "HDFC Credit Risk Debt Fund Direct Plan Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1GB2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002877",
+    "schemeName": "HDFC Corporate Bond Fund Direct Plan Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01XC0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005550",
+    "schemeName": "HDFC Credit Risk Debt Fund Growth Option",
+    "isin": "INF179KA1GC0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004907",
+    "schemeName": "HDFC Credit Risk Debt Fund Direct Plan Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1GA4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002345",
+    "schemeName": "HDFC Corporate Bond Fund Direct Plan Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01XB2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005552",
+    "schemeName": "HDFC Credit Risk Debt Fund Direct Plan Growth Option",
+    "isin": "INF179KA1FZ3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005846",
+    "schemeName": "HDFC Credit Risk Debt Fund Direct Option Normal Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1I61",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005860",
+    "schemeName": "HDFC Credit Risk Debt Fund Regular Option Normal Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1I79",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002714",
+    "schemeName": "HDFC Corporate Bond Fund Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01DD0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005219",
+    "schemeName": "HDFC Credit Risk Debt Fund Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1GE6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004899",
+    "schemeName": "HDFC Credit Risk Debt Fund Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1GD8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005655",
+    "schemeName": "HDFC Corporate Bond Growth",
+    "isin": "INF179K01DC2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005867",
+    "schemeName": "HDFC Credit Risk Debt Fund Direct Option Normal Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1I53",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005906",
+    "schemeName": "HDFC Corporate Bond Fund Regular Option Normal Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1D25",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF006055",
+    "schemeName": "HDFC Dividend Yield Fund Regular Growth",
+    "isin": "INF179KC1AR9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005832",
+    "schemeName": "HDFC Credit Risk Debt Fund Regular Option Normal Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1I87",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015707",
+    "schemeName": "HDFC Defence Fund Direct Growth",
+    "isin": "INF179KC1GI5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015708",
+    "schemeName": "HDFC Defence Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GJ3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006052",
+    "schemeName": "HDFC Dividend Yield Fund Direct Payout Inc Dist cum Cap Wdrl Opt Reinvestment",
+    "isin": "INF179KC1AQ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015712",
+    "schemeName": "HDFC Defence Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GN5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006053",
+    "schemeName": "HDFC Dividend Yield Fund Regular Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1AT5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013701",
+    "schemeName": "HDFC Developed World Equity Passive FoF Regular Growth",
+    "isin": "INF179KC1BP1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015710",
+    "schemeName": "HDFC Defence Fund Regular Growth",
+    "isin": "INF179KC1GL9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015711",
+    "schemeName": "HDFC Defence Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GM7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013700",
+    "schemeName": "HDFC Developed World Equity Passive FoF Direct Growth",
+    "isin": "INF179KC1BO4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015709",
+    "schemeName": "HDFC Defence Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GK1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006050",
+    "schemeName": "HDFC Dividend Yield Fund Direct Growth",
+    "isin": "INF179KC1AO6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006051",
+    "schemeName": "HDFC Dividend Yield Fund Direct Reinvestment Inc Dist cum Cap Wdrl Opt Payout",
+    "isin": "INF179KC1AP3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006057",
+    "schemeName": "HDFC Dividend Yield Fund Regular Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1AS7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF011261",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1224D November 2016 - Dir - Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1YR0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011260",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1224D November 2016 - Direct Option - Growth Option",
+    "isin": "INF179KB1YQ2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011634",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1267D October 2016 - Direct Option - Growth Option",
+    "isin": "INF179KB1XZ5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011631",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1267D October 2016 - Dir - Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1YA6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011263",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1224D November 2016 - Regular Option - Growth Option",
+    "isin": "INF179KB1YS8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011266",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1224D November 2016 - Reg - Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1YT6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011766",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1304D August 2016 - Dir - Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1UC0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011753",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1304D August 2016 - Direct Option - Growth Option",
+    "isin": "INF179KB1UB2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011648",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1267D October 2016 - Reg - Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1YC2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011769",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1304D August 2016 - Regular Option - Growth Option",
+    "isin": "INF179KB1UD8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011632",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1267D October 2016 - Regular Option - Growth Option",
+    "isin": "INF179KB1YB4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004618",
+    "schemeName": "HDFC Dynamic Debt Plan - Direct Plan - Growth Option",
+    "isin": "INF179K01WB4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011763",
+    "schemeName": "HDFC Dual Advantage Fund - Series III - 1304D August 2016 - Reg - Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1UE6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF002876",
+    "schemeName": "HDFC Dynamic Debt Plan Annual Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01939",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005247",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Normal Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1Q87",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004822",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Normal Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1Q95",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002869",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Half Yearly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01WD0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002364",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Half Yearly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01WC2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002354",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01WE8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004252",
+    "schemeName": "HDFC Dynamic Debt Plan - Growth",
+    "isin": "INF179K01848",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002857",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01WF5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002095",
+    "schemeName": "HDFC Dynamic Debt Plan Annual Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01921",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002858",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Yearly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01WH1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002353",
+    "schemeName": "HDFC Dynamic Debt Plan Direct Plan Yearly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01WG3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000732",
+    "schemeName": "HDFC Dynamic Debt Plan Half Yearly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01855",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001819",
+    "schemeName": "HDFC Dynamic Debt Plan Half Yearly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01863",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001827",
+    "schemeName": "HDFC Dynamic Debt Plan Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01889",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002512",
+    "schemeName": "HDFC Dynamic Debt Plan Regular Plan Normal Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1R11",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001060",
+    "schemeName": "HDFC ELSS TaxSaver -Direct Plan - Growth Option",
+    "isin": "INF179K01YS4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000737",
+    "schemeName": "HDFC Dynamic Debt Plan Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01871",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002875",
+    "schemeName": "HDFC Dynamic Debt Plan Regular Plan Normal Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1R03",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001063",
+    "schemeName": "HDFC ELSS TaxSaver -Direct Plan Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01YQ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000460",
+    "schemeName": "HDFC ELSS TaxSaver Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01BA0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001851",
+    "schemeName": "HDFC ELSS TaxSaver -Direct Plan Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01YR6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF011829",
+    "schemeName": "HDFC EOF - II - 1100D June 2017 (1) Regular Growth",
+    "isin": "INF179KB1V39",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF011824",
+    "schemeName": "HDFC EOF - II - 1100D June 2017 (1) Direct Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1AK4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF011837",
+    "schemeName": "HDFC EOF - II - 1100D June 2017 (1) Regular Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1V47",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009955",
+    "schemeName": "HDFC EOF - II - 1126D May 2017 (1) Direct Growth",
+    "isin": "INF179KC1AF4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009954",
+    "schemeName": "HDFC EOF - II - 1126D May 2017 (1) Direct Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1AG2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000278",
+    "schemeName": "HDFC ELSS TaxSaver Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01AZ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF011839",
+    "schemeName": "HDFC EOF - II - 1100D June 2017 (1) Direct Growth",
+    "isin": "INF179KB1V13",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000279",
+    "schemeName": "HDFC ELSS TaxSaver Growth",
+    "isin": "INF179K01BB8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009957",
+    "schemeName": "HDFC EOF - II - 1126D May 2017 (1) Regular Growth",
+    "isin": "INF179KC1AH0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005852",
+    "schemeName": "HDFC Equity Savings Fund Direct Plan Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01XR8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005853",
+    "schemeName": "HDFC Equity Savings Fund Direct Plan Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01XS6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005849",
+    "schemeName": "HDFC Equity Savings Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01XT4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009956",
+    "schemeName": "HDFC EOF - II - 1126D May 2017 (1) Regular Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1AI8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005660",
+    "schemeName": "HDFC Equity Savings Fund Growth",
+    "isin": "INF179K01AM7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005658",
+    "schemeName": "HDFC Equity Savings Fund Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01AK1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF010193",
+    "schemeName": "HDFC FMP 1100D April 2019 (1) Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1924",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010191",
+    "schemeName": "HDFC FMP 1100D April 2019 (1) Direct Growth",
+    "isin": "INF179KC1908",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010197",
+    "schemeName": "HDFC FMP 1100D April 2019 (1) Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1957",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011479",
+    "schemeName": "HDFC FMP 1105D Aug 2018(1) Direct Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13K4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011470",
+    "schemeName": "HDFC FMP 1105D Aug 2018(1) Direct Growth",
+    "isin": "INF179KB12K6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011474",
+    "schemeName": "HDFC FMP 1105D Aug 2018(1) Regular Growth",
+    "isin": "INF179KB15K9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011473",
+    "schemeName": "HDFC FMP 1105D Aug 2018(1) Regular Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16K7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013175",
+    "schemeName": "HDFC FMP 1105D Aug 2018(2) Direct Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18M9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010192",
+    "schemeName": "HDFC FMP 1100D April 2019 (1) Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1916",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013176",
+    "schemeName": "HDFC FMP 1105D Aug 2018(2) Direct Growth",
+    "isin": "INF179KB17M1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011478",
+    "schemeName": "HDFC FMP 1105D Aug 2018(1) Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14K2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013171",
+    "schemeName": "HDFC FMP 1105D Aug 2018(2) Regular Growth",
+    "isin": "INF179KB10N4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010194",
+    "schemeName": "HDFC FMP 1100D April 2019 (1) Regular Growth",
+    "isin": "INF179KC1932",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013178",
+    "schemeName": "HDFC FMP 1105D Aug 2018(2) Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12N0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013170",
+    "schemeName": "HDFC FMP 1105D Aug 2018(2) Regular Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11N2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011965",
+    "schemeName": "HDFC FMP 1113D Aug 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB15L7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013173",
+    "schemeName": "HDFC FMP 1105D Aug 2018(2) Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19M7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011471",
+    "schemeName": "HDFC FMP 1105D Aug 2018(1) Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17K5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005854",
+    "schemeName": "HDFC Equity Savings Fund Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01AL9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF011961",
+    "schemeName": "HDFC FMP 1113D Aug 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16L5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011960",
+    "schemeName": "HDFC FMP 1113D Aug 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17L3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010195",
+    "schemeName": "HDFC FMP 1100D April 2019 (1) Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1940",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011969",
+    "schemeName": "HDFC FMP 1113D Aug 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB18L1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011968",
+    "schemeName": "HDFC FMP 1113D Aug 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19L9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011966",
+    "schemeName": "HDFC FMP 1113D Aug 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10M6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011626",
+    "schemeName": "HDFC FMP 1122D Aug 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB11M4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010289",
+    "schemeName": "HDFC FMP 1122D Aug 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB14M8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013516",
+    "schemeName": "HDFC FMP 1115D Sept 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17O7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013528",
+    "schemeName": "HDFC FMP 1115D Sept 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19O3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011230",
+    "schemeName": "HDFC FMP 1119D June 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15F9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011232",
+    "schemeName": "HDFC FMP 1119D June 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB14F2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013527",
+    "schemeName": "HDFC FMP 1115D Sept 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10P9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013518",
+    "schemeName": "HDFC FMP 1115D Sept 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB15O1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011624",
+    "schemeName": "HDFC FMP 1122D Aug 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12M2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011620",
+    "schemeName": "HDFC FMP 1122D Aug 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13M0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013424",
+    "schemeName": "HDFC FMP 1122D July 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14J4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013422",
+    "schemeName": "HDFC FMP 1122D July 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15J1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013412",
+    "schemeName": "HDFC FMP 1122D July 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB10J2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010276",
+    "schemeName": "HDFC FMP 1122D Aug 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15M5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013419",
+    "schemeName": "HDFC FMP 1122D July 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12J8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013426",
+    "schemeName": "HDFC FMP 1122D July 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB13J6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011629",
+    "schemeName": "HDFC FMP 1122D Aug 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16M3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011569",
+    "schemeName": "HDFC FMP 1124D June 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14H8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011566",
+    "schemeName": "HDFC FMP 1124D June 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15H5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011561",
+    "schemeName": "HDFC FMP 1124D June 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB16H3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013342",
+    "schemeName": "HDFC FMP 1126D March 2019 (44)1 Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1494",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011559",
+    "schemeName": "HDFC FMP 1124D June 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18H9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011564",
+    "schemeName": "HDFC FMP 1124D June 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17H1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013349",
+    "schemeName": "HDFC FMP 1126D March 2019 (44)1 Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1502",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013343",
+    "schemeName": "HDFC FMP 1126D March 2019 (44)1 Regular Growth",
+    "isin": "INF179KC1510",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013348",
+    "schemeName": "HDFC FMP 1126D March 2019 (44)1 Direct Growth",
+    "isin": "INF179KC1486",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013529",
+    "schemeName": "HDFC FMP 1115D Sept 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB18O5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013517",
+    "schemeName": "HDFC FMP 1115D Sept 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16O9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013288",
+    "schemeName": "HDFC FMP 1133D Feb 2019(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1437",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013345",
+    "schemeName": "HDFC FMP 1126D March 2019 (44)1 Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1528",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013410",
+    "schemeName": "HDFC FMP 1122D July 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11J0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011568",
+    "schemeName": "HDFC FMP 1124D June 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB13H0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013286",
+    "schemeName": "HDFC FMP 1133D Feb 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1445",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013344",
+    "schemeName": "HDFC FMP 1126D March 2019 (44)1 Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1536",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013283",
+    "schemeName": "HDFC FMP 1133D Feb 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1429",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013295",
+    "schemeName": "HDFC FMP 1133D Feb 2019(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1460",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013293",
+    "schemeName": "HDFC FMP 1133D Feb 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1478",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011003",
+    "schemeName": "HDFC FMP 1133D July 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18J5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011016",
+    "schemeName": "HDFC FMP 1133D July 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB19J3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013291",
+    "schemeName": "HDFC FMP 1133D Feb 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1452",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011010",
+    "schemeName": "HDFC FMP 1133D July 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17J7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011015",
+    "schemeName": "HDFC FMP 1133D July 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10K0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011012",
+    "schemeName": "HDFC FMP 1133D July 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11K8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011464",
+    "schemeName": "HDFC FMP 1141D Aug 2018(1) Regular Growth",
+    "isin": "INF179KB12L4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011463",
+    "schemeName": "HDFC FMP 1141D Aug 2018(1) Regular Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13L2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011011",
+    "schemeName": "HDFC FMP 1133D July 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB16J9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013423",
+    "schemeName": "HDFC FMP 1146D Feb 2019(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1379",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011453",
+    "schemeName": "HDFC FMP 1141D Aug 2018(1) Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11L6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013420",
+    "schemeName": "HDFC FMP 1146D Feb 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1395",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011231",
+    "schemeName": "HDFC FMP 1150D Feb 2017(1)-Direct Option-Growth Option",
+    "isin": "INF179KB1C81",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011238",
+    "schemeName": "HDFC FMP 1150D Feb 2017(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1D07",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011209",
+    "schemeName": "HDFC FMP 1155D Feb 2017(1)-Direct Option-Growth Option",
+    "isin": "INF179KB1B66",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012563",
+    "schemeName": "HDFC FMP 1154D Feb 2019(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1346",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012564",
+    "schemeName": "HDFC FMP 1154D Feb 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1353",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013442",
+    "schemeName": "HDFC FMP 1146D Feb 2019(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1403",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012566",
+    "schemeName": "HDFC FMP 1154D Feb 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1320",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012574",
+    "schemeName": "HDFC FMP 1154D Feb 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1338",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012575",
+    "schemeName": "HDFC FMP 1154D Feb 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1304",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011233",
+    "schemeName": "HDFC FMP 1150D Feb 2017(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1D31",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011462",
+    "schemeName": "HDFC FMP 1141D Aug 2018(1) Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14L0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013425",
+    "schemeName": "HDFC FMP 1146D Feb 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1387",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011460",
+    "schemeName": "HDFC FMP 1141D Aug 2018(1) Direct Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19K1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013427",
+    "schemeName": "HDFC FMP 1146D Feb 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1361",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010270",
+    "schemeName": "HDFC FMP 1168D Jan 2019(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1254",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010272",
+    "schemeName": "HDFC FMP 1168D Jan 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1262",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010262",
+    "schemeName": "HDFC FMP 1168D Jan 2019(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1288",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011212",
+    "schemeName": "HDFC FMP 1155D Feb 2017(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1C08",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010261",
+    "schemeName": "HDFC FMP 1168D Jan 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1270",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010274",
+    "schemeName": "HDFC FMP 1168D Jan 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1247",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012565",
+    "schemeName": "HDFC FMP 1154D Feb 2019(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1312",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011213",
+    "schemeName": "HDFC FMP 1155D Feb 2017(1)-Regular Option-Growth Option",
+    "isin": "INF179KB1B90",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011229",
+    "schemeName": "HDFC FMP 1155D Feb 2017(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1B74",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011227",
+    "schemeName": "HDFC FMP 1155D Feb 2017(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1B82",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011234",
+    "schemeName": "HDFC FMP 1150D Feb 2017(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1D23",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013443",
+    "schemeName": "HDFC FMP 1146D Feb 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1411",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011235",
+    "schemeName": "HDFC FMP 1150D Feb 2017(1)-Regular Option-Growth Option",
+    "isin": "INF179KB1D15",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011240",
+    "schemeName": "HDFC FMP 1150D Feb 2017(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1C99",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011461",
+    "schemeName": "HDFC FMP 1141D Aug 2018(1) Direct Growth",
+    "isin": "INF179KB18K3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010996",
+    "schemeName": "HDFC FMP 1169D Feb 2017(1)-Direct Option-Growth Option",
+    "isin": "INF179KB1A42",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010425",
+    "schemeName": "HDFC FMP 1169D Feb 2017(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1A67",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010994",
+    "schemeName": "HDFC FMP 1169D Feb 2017(1)-Regular Option-Growth Option",
+    "isin": "INF179KB1A75",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011210",
+    "schemeName": "HDFC FMP 1155D Feb 2017(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1C16",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011004",
+    "schemeName": "HDFC FMP 1169D Feb 2017(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1A91",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013430",
+    "schemeName": "HDFC FMP 1175D Jan 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1205",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013441",
+    "schemeName": "HDFC FMP 1175D Jan 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1189",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010993",
+    "schemeName": "HDFC FMP 1169D Feb 2017(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1A83",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013435",
+    "schemeName": "HDFC FMP 1175D Jan 2019(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1221",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013433",
+    "schemeName": "HDFC FMP 1175D Jan 2019(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1197",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010426",
+    "schemeName": "HDFC FMP 1169D Feb 2017(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1A59",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010266",
+    "schemeName": "HDFC FMP 1168D Jan 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1296",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013438",
+    "schemeName": "HDFC FMP 1175D Jan 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1213",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012002",
+    "schemeName": "HDFC FMP 1181D April 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17C2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011991",
+    "schemeName": "HDFC FMP 1181D April 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB16C4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011990",
+    "schemeName": "HDFC FMP 1181D April 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18C0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011999",
+    "schemeName": "HDFC FMP 1181D April 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10D5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013312",
+    "schemeName": "HDFC FMP 1182D Jan 2019(1) Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1130",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011998",
+    "schemeName": "HDFC FMP 1181D April 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB19C8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013316",
+    "schemeName": "HDFC FMP 1182D Jan 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1122",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012790",
+    "schemeName": "HDFC FMP 1190D Jan 2019(1)-Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1106",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012813",
+    "schemeName": "HDFC FMP 1190D Jan 2019(1)-Direct Option-Growth Option",
+    "isin": "INF179KC1064",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013310",
+    "schemeName": "HDFC FMP 1182D Jan 2019(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1163",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013313",
+    "schemeName": "HDFC FMP 1182D Jan 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1148",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013429",
+    "schemeName": "HDFC FMP 1175D Jan 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1239",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011997",
+    "schemeName": "HDFC FMP 1181D April 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11D3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012805",
+    "schemeName": "HDFC FMP 1190D Jan 2019(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1072",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013311",
+    "schemeName": "HDFC FMP 1182D Jan 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1171",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012800",
+    "schemeName": "HDFC FMP 1190D Jan 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1098",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012184",
+    "schemeName": "HDFC FMP 1196D Dec 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB19Z9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012791",
+    "schemeName": "HDFC FMP 1190D Jan 2019(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1114",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF013314",
+    "schemeName": "HDFC FMP 1182D Jan 2019(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1155",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012183",
+    "schemeName": "HDFC FMP 1196D Dec 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1023",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011633",
+    "schemeName": "HDFC FMP 1203D Dec 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17Z3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011636",
+    "schemeName": "HDFC FMP 1203D Dec 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB16Z5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015340",
+    "schemeName": "HDFC FMP 1204D December 2022 (47) Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EP5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012179",
+    "schemeName": "HDFC FMP 1196D Dec 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1015",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011637",
+    "schemeName": "HDFC FMP 1203D Dec 2018(1)-Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14Z0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015344",
+    "schemeName": "HDFC FMP 1204D December 2022 (47) Direct Growth",
+    "isin": "INF179KC1EN0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012172",
+    "schemeName": "HDFC FMP 1196D Dec 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1049",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015339",
+    "schemeName": "HDFC FMP 1204D December 2022 (47) Regular Growth",
+    "isin": "INF179KC1EQ3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012176",
+    "schemeName": "HDFC FMP 1196D Dec 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KC1031",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012726",
+    "schemeName": "HDFC FMP 1224D Dec 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB15X2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015341",
+    "schemeName": "HDFC FMP 1204D December 2022 (47) Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EO8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010747",
+    "schemeName": "HDFC FMP 1218D Dec 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB11Y9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010734",
+    "schemeName": "HDFC FMP 1218D Dec 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15Y0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012721",
+    "schemeName": "HDFC FMP 1224D Dec 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19X4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012723",
+    "schemeName": "HDFC FMP 1224D Dec 2018(1)-Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17X8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012722",
+    "schemeName": "HDFC FMP 1224D Dec 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB18X6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011784",
+    "schemeName": "HDFC FMP 1211D Dec 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB10Z8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011787",
+    "schemeName": "HDFC FMP 1211D Dec 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB17Y6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010744",
+    "schemeName": "HDFC FMP 1218D Dec 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB14Y3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011785",
+    "schemeName": "HDFC FMP 1211D Dec 2018(1)-Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19Y2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012725",
+    "schemeName": "HDFC FMP 1224D Dec 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16X0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010746",
+    "schemeName": "HDFC FMP 1218D Dec 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12Y7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015338",
+    "schemeName": "HDFC FMP 1204D December 2022 (47) Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1ER1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010745",
+    "schemeName": "HDFC FMP 1218D Dec 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13Y5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011786",
+    "schemeName": "HDFC FMP 1211D Dec 2018(1)-Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18Y4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012224",
+    "schemeName": "HDFC FMP 1232D Nov 2018(1)-Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16W2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012227",
+    "schemeName": "HDFC FMP 1232D Nov 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17W0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012223",
+    "schemeName": "HDFC FMP 1232D Nov 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB18W8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012218",
+    "schemeName": "HDFC FMP 1232D Nov 2018(1)-Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19W6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011157",
+    "schemeName": "HDFC FMP 1260D Oct 2018(1)-Direct Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14V9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015343",
+    "schemeName": "HDFC FMP 1204D December 2022 (47) Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1ES9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011154",
+    "schemeName": "HDFC FMP 1260D Oct 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB13V1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011158",
+    "schemeName": "HDFC FMP 1260D Oct 2018(1)-Direct Option-Quartely Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15V6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011365",
+    "schemeName": "HDFC FMP 1246D Nov 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB19V8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011783",
+    "schemeName": "HDFC FMP 1211D Dec 2018(1)-Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11Z6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011363",
+    "schemeName": "HDFC FMP 1246D Nov 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11W3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011367",
+    "schemeName": "HDFC FMP 1246D Nov 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13W9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011364",
+    "schemeName": "HDFC FMP 1246D Nov 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10W5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012219",
+    "schemeName": "HDFC FMP 1232D Nov 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10X3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010732",
+    "schemeName": "HDFC FMP 1218D Dec 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16Y8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011639",
+    "schemeName": "HDFC FMP 1203D Dec 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB13Z2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011369",
+    "schemeName": "HDFC FMP 1246D Nov 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB12W1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010671",
+    "schemeName": "HDFC FMP 1261D Oct 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18U2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011151",
+    "schemeName": "HDFC FMP 1260D Oct 2018(1)-Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17V2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011150",
+    "schemeName": "HDFC FMP 1260D Oct 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB16V4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010380",
+    "schemeName": "HDFC FMP 1265D Oct 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12U5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010672",
+    "schemeName": "HDFC FMP 1261D Oct 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19U0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011781",
+    "schemeName": "HDFC FMP 1211D Dec 2018(1)-Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12Z4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010371",
+    "schemeName": "HDFC FMP 1265D Oct 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15U8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011638",
+    "schemeName": "HDFC FMP 1203D Dec 2018(1)-Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15Z7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010381",
+    "schemeName": "HDFC FMP 1265D Oct 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13U3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010372",
+    "schemeName": "HDFC FMP 1265D Oct 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB16U6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010819",
+    "schemeName": "HDFC FMP 1265D Oct 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB14U1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012700",
+    "schemeName": "HDFC FMP 1309D Sept 2016(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1WP8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010675",
+    "schemeName": "HDFC FMP 1261D Oct 2018(1)-Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12V3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010674",
+    "schemeName": "HDFC FMP 1261D Oct 2018(1)-Regular Normal Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11V5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012712",
+    "schemeName": "HDFC FMP 1224D Dec 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10Y1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012709",
+    "schemeName": "HDFC FMP 1309D Sept 2016(1)-Regular Option-Growth Option",
+    "isin": "INF179KB1WQ6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012323",
+    "schemeName": "HDFC FMP 1280D Oct 2018(1)-Direct Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14S5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012336",
+    "schemeName": "HDFC FMP 1280D Oct 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18S6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012335",
+    "schemeName": "HDFC FMP 1344D Oct 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10T1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012321",
+    "schemeName": "HDFC FMP 1280D Oct 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB13S7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012708",
+    "schemeName": "HDFC FMP 1309D Sept 2016(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1WR4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012333",
+    "schemeName": "HDFC FMP 1344D Oct 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11T9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010673",
+    "schemeName": "HDFC FMP 1261D Oct 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB10V7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012707",
+    "schemeName": "HDFC FMP 1309D Sept 2016(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1WS2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011152",
+    "schemeName": "HDFC FMP 1260D Oct 2018(1)-Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18V0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010670",
+    "schemeName": "HDFC FMP 1261D Oct 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB17U4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012381",
+    "schemeName": "HDFC FMP 1372D Sept 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18R8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012320",
+    "schemeName": "HDFC FMP 1280D Oct 2018(1)-Direct Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB15S2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012332",
+    "schemeName": "HDFC FMP 1344D Oct 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13T5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012385",
+    "schemeName": "HDFC FMP 1372D Sept 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11S1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012807",
+    "schemeName": "HDFC FMP 1190D Jan 2019(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1080",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012331",
+    "schemeName": "HDFC FMP 1344D Oct 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB12T7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011635",
+    "schemeName": "HDFC FMP 1203D Dec 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB18Z1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010422",
+    "schemeName": "HDFC FMP 1381D Sept 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13Q1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012340",
+    "schemeName": "HDFC FMP 1487D Aug 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB12O8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015471",
+    "schemeName": "HDFC FMP 2638D February 2023 (47) Regular Growth",
+    "isin": "INF179KC1FN7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015473",
+    "schemeName": "HDFC FMP 2638D February 2023 (47) Direct Growth",
+    "isin": "INF179KC1FK3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012525",
+    "schemeName": "HDFC FMP 1434D May 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB18D8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015470",
+    "schemeName": "HDFC FMP 2638D February 2023 (47) Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FP2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012523",
+    "schemeName": "HDFC FMP 1434D May 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10E3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012174",
+    "schemeName": "HDFC FMP 1196D Dec 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1056",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010420",
+    "schemeName": "HDFC FMP 1381D Sept 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB19P0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010428",
+    "schemeName": "HDFC FMP 1381D Sept 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11Q5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012701",
+    "schemeName": "HDFC FMP 1309D Sept 2016(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB1WO1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012514",
+    "schemeName": "HDFC FMP 1434D May 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13E7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014336",
+    "schemeName": "HDFC Fixed Maturity Plan 1162 Days March 2022 Series 46 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CM6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015472",
+    "schemeName": "HDFC FMP 2638D February 2023 (47) Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FM9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010429",
+    "schemeName": "HDFC FMP 1381D Sept 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10Q7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012348",
+    "schemeName": "HDFC FMP 1487D Aug 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB10O2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012334",
+    "schemeName": "HDFC FMP 1344D Oct 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB19S4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012229",
+    "schemeName": "HDFC FMP 1232D Nov 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB15W4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012539",
+    "schemeName": "HDFC FMP 1487D Aug 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB13O6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012338",
+    "schemeName": "HDFC FMP 1280D Oct 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB16S0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012330",
+    "schemeName": "HDFC FMP 1344D Oct 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14T3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010373",
+    "schemeName": "HDFC FMP 1265D Oct 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB11U7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010421",
+    "schemeName": "HDFC FMP 1381D Sept 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14Q9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012516",
+    "schemeName": "HDFC FMP 1434D May 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB11E1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012383",
+    "schemeName": "HDFC FMP 1372D Sept 2018(1)-Regular Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12S9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012339",
+    "schemeName": "HDFC FMP 1280D Oct 2018(1)-Regular Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB17S8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012518",
+    "schemeName": "HDFC FMP 1434D May 2018(1)-Regular Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12E9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011366",
+    "schemeName": "HDFC FMP 1246D Nov 2018(1)-Regular Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14W7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010423",
+    "schemeName": "HDFC FMP 1381D Sept 2018(1)-Regular Option-Growth Optio",
+    "isin": "INF179KB12Q3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014335",
+    "schemeName": "HDFC Fixed Maturity Plan 1162 Days March 2022 Series 46 Direct Quarterly Payout Inc Dist cum CapWdrl",
+    "isin": "INF179KC1CK0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012816",
+    "schemeName": "HDFC Fixed Maturity Plan 1274 Days October 2018 Series43 Plan 1 Dir Inc Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KB16T8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014338",
+    "schemeName": "HDFC Fixed Maturity Plan 1162 Days March 2022 Series 46 Regular Quarterly Payout Inc Dist cumCapWdrl",
+    "isin": "INF179KC1CN4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014334",
+    "schemeName": "HDFC Fixed Maturity Plan 1162 Days March 2022 Series 46 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CJ2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010833",
+    "schemeName": "HDFC Fixed Maturity Plans 1113 Days March 2019 Series 44 Plan 1 Direct Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1742",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014827",
+    "schemeName": "HDFC Fixed Maturity Plan 1406 Days August 2022 Series 46 Direct Quarterly Payout Inc Dist cum Cap Wd",
+    "isin": "INF179KC1DE1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010837",
+    "schemeName": "HDFC Fixed Maturity Plans 1113 Days March 2019 Series 44 Plan 1 Direct Growth",
+    "isin": "INF179KC1726",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012120",
+    "schemeName": "HDFC Fixed Maturity Plan 91 Days November 2018 Series 43 Plan 1 Reg-Nrm Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB14X5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012820",
+    "schemeName": "HDFC Fixed Maturity Plan 1274 Days October 2018 Series43 Plan 1 Reg Qrtl Inc Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KB10U9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011244",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Regular Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1IG7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012702",
+    "schemeName": "HDFC FMP 1309D Sept 2016(1)-Direct Option-Growth Option",
+    "isin": "INF179KB1WN3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012346",
+    "schemeName": "HDFC FMP 1487D Aug 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB11O0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014826",
+    "schemeName": "HDFC Fixed Maturity Plan 1406 Days August 2022 Series 46 Regular Growth",
+    "isin": "INF179KC1DF8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012817",
+    "schemeName": "HDFC Fixed Maturity Plan 1274 Days October 2018 Series43 Plan 1 Reg Inc Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KB19T2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012124",
+    "schemeName": "HDFC Fixed Maturity Plan 91 Days November 2018 Series 43 Plan 1 Direct Option-Growth Option",
+    "isin": "INF179KB11X1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012121",
+    "schemeName": "HDFC Fixed Maturity Plan 91 Days November 2018 Series 43 Plan 1 Regular Option-Growth Option",
+    "isin": "INF179KB13X7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011242",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Regular Growth",
+    "isin": "INF179KA1IF9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011259",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Direct Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1IC6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012819",
+    "schemeName": "HDFC Fixed Maturity Plan 1274 Days October 2018 Series43 Plan 1 Regular Growth",
+    "isin": "INF179KB18T4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012122",
+    "schemeName": "HDFC Fixed Maturity Plan 91 Days November 2018 Series 43 Plan 1 Dir-Nrm Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB12X9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011247",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Regular Qt Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1IH5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011243",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Regular Flexi",
+    "isin": "INF179KA1II3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011251",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Direct Qt Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1ID4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011245",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Direct Growth",
+    "isin": "INF179KA1IB8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011529",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Regular Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K014A3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011519",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Regular Flexi",
+    "isin": "INF179K012A7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011525",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Regular Qt Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K015A0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011528",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Direct Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K010A1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011527",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Regular Growth",
+    "isin": "INF179K013A5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011520",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Direct Qt Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K011A9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014830",
+    "schemeName": "HDFC Fixed Maturity Plan 1406 Days August 2022 Series 46 Regular Quarterly Payout Inc Dist cum Cap W",
+    "isin": "INF179KC1DH4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011526",
+    "schemeName": "HDFC Fixed Maturity Plan 1846 Days August 2013 Series 27 Plan 1 Direct Growth",
+    "isin": "INF179K01Z92",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012818",
+    "schemeName": "HDFC Fixed Maturity Plan 1274 Days October 2018 Series43 Plan 1 Direct Growth",
+    "isin": "INF179KB15T0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010831",
+    "schemeName": "HDFC Fixed Maturity Plans 1113 Days March 2019 Series 44 Plan 1 Direct Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1734",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010834",
+    "schemeName": "HDFC Fixed Maturity Plans 1113 Days March 2019 Series 44 Plan 1 Regular Growth",
+    "isin": "INF179KC1759",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010302",
+    "schemeName": "HDFC Fixed Maturity Plans 1118 Days March 2019 Series 44 Plan 1 Direct Growth",
+    "isin": "INF179KC1668",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012823",
+    "schemeName": "HDFC Fixed Maturity Plan 1274 Days October 2018 Series43 Plan 1 Dir Qrtl Inc Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KB17T6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010835",
+    "schemeName": "HDFC Fixed Maturity Plans 1113 Days March 2019 Series 44 Plan 1 Regular Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1767",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010306",
+    "schemeName": "HDFC Fixed Maturity Plans 1118 Days March 2019 Series 44 Plan 1 Direct Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1676",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015474",
+    "schemeName": "HDFC FMP 2638D February 2023 (47) Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FO5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012382",
+    "schemeName": "HDFC FMP 1372D Sept 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB17R0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012380",
+    "schemeName": "HDFC FMP 1372D Sept 2018(1)-Direct Option-Quarterly Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19R6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010326",
+    "schemeName": "HDFC Fixed Maturity Plans 1120 Days Mar 2019 Series 44 Plan 1 Direct Nrm Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1627",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010330",
+    "schemeName": "HDFC Fixed Maturity Plans 1120 Days Mar 2019 Series 44 Plan 1 Regular Qt Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1643",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014829",
+    "schemeName": "HDFC Fixed Maturity Plan 1406 Days August 2022 Series 46 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DG6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012386",
+    "schemeName": "HDFC FMP 1372D Sept 2018(1)-Regular Option-Growth Option",
+    "isin": "INF179KB10S3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010328",
+    "schemeName": "HDFC Fixed Maturity Plans 1120 Days Mar 2019 Series 44 Plan 1 Regular Growth",
+    "isin": "INF179KC1635",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011669",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days April 2019 Series 44 Plan 1 Regular Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1833",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011664",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days April 2019 Series 44 Plan 1 Direct Growth",
+    "isin": "INF179KC1783",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010696",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days March 2019 Series 44 Plan 1 Direct Growth",
+    "isin": "INF179KC1544",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010331",
+    "schemeName": "HDFC Fixed Maturity Plans 1120 Days Mar 2019 Series 44 Plan 1 Regular Nrm Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1650",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010305",
+    "schemeName": "HDFC Fixed Maturity Plans 1118 Days March 2019 Series 44 Plan 1 Direct Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1684",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010836",
+    "schemeName": "HDFC Fixed Maturity Plans 1113 Days March 2019 Series 44 Plan 1 Regular Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1775",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014339",
+    "schemeName": "HDFC Fixed Maturity Plan 1162 Days March 2022 Series 46 Regular Growth",
+    "isin": "INF179KC1CL8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014828",
+    "schemeName": "HDFC Fixed Maturity Plan 1406 Days August 2022 Series 46 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DD3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010323",
+    "schemeName": "HDFC Fixed Maturity Plans 1120 Days Mar 2019 Series 44 Plan 1 Direct Growth",
+    "isin": "INF179KC1601",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015568",
+    "schemeName": "HDFC Fixed Maturity Plans 1269D March 2023 Series 47 Regular Growth",
+    "isin": "INF179KC1FX6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015080",
+    "schemeName": "HDFC Fixed Maturity Plans 1359D September 2022 Ser 46 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DP7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015082",
+    "schemeName": "HDFC Fixed Maturity Plans 1359D September 2022 Ser 46 Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DQ5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015566",
+    "schemeName": "HDFC Fixed Maturity Plans 1269D March 2023 Series 47 Direct Growth",
+    "isin": "INF179KC1FU2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010700",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days March 2019 Series 44 Plan 1 Regular Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1585",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010709",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days March 2019 Series 44 Plan 1 Regular Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1593",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015564",
+    "schemeName": "HDFC Fixed Maturity Plans 1269D March 2023 Series 47 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FV0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015565",
+    "schemeName": "HDFC Fixed Maturity Plans 1269D March 2023 Series 47 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FY4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011249",
+    "schemeName": "HDFC Fixed Maturity Plan 3360 Days March 2014 Series 30 Plan 1 Direct Flexi",
+    "isin": "INF179KA1IE2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014328",
+    "schemeName": "HDFC Fixed Maturity Plans 1861D March 2022- Series 46 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CD5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014331",
+    "schemeName": "HDFC Fixed Maturity Plans 1861D March 2022- Series 46 Regular Growth",
+    "isin": "INF179KC1CF0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014330",
+    "schemeName": "HDFC Fixed Maturity Plans 1861D March 2022- Series 46 Regular Quarterly Income Dist cum Cap Wdrl",
+    "isin": "INF179KC1CH6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011668",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days April 2019 Series 44 Plan 1 Regular Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1825",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014333",
+    "schemeName": "HDFC Fixed Maturity Plans 1861D March 2022- Series 46 Direct Growth",
+    "isin": "INF179KC1CC7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015569",
+    "schemeName": "HDFC Fixed Maturity Plans 1269D March 2023 Series 47 Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FZ1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015077",
+    "schemeName": "HDFC Fixed Maturity Plans 1359D September 2022 Ser 46 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DS1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014411",
+    "schemeName": "HDFC Fixed Maturity Plans 1876D March 2022- Series 46 Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CQ7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015567",
+    "schemeName": "HDFC Fixed Maturity Plans 1269D March 2023 Series 47 Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FW8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015081",
+    "schemeName": "HDFC Fixed Maturity Plans 1359D September 2022 Ser 46 Direct Growth",
+    "isin": "INF179KC1DO0",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015079",
+    "schemeName": "HDFC Fixed Maturity Plans 1359D September 2022 Ser 46 Regular Growth",
+    "isin": "INF179KC1DR3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015078",
+    "schemeName": "HDFC Fixed Maturity Plans 1359D September 2022 Ser 46 Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1DT9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014332",
+    "schemeName": "HDFC Fixed Maturity Plans 1861D March 2022- Series 46 Direct Quarterly Income Dist cum Cap Wdrl",
+    "isin": "INF179KC1CE3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014329",
+    "schemeName": "HDFC Fixed Maturity Plans 1861D March 2022- Series 46 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CG8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014831",
+    "schemeName": "HDFC Fixed Maturity Plan 1406 Days August 2022 Series 46 Direct Growth",
+    "isin": "INF179KC1DC5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014414",
+    "schemeName": "HDFC Fixed Maturity Plans 1876D March 2022- Series 46 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CP9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014598",
+    "schemeName": "HDFC Fixed Maturity Plans Series 46 1158D July 2022 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CY1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014596",
+    "schemeName": "HDFC Fixed Maturity Plans Series 46 1158D July 2022 Direct Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CV7",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014593",
+    "schemeName": "HDFC Fixed Maturity Plans Series 46 1158D July 2022 Direct Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CW5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002951",
+    "schemeName": "HDFC Flexi Cap Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01UT0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014594",
+    "schemeName": "HDFC Fixed Maturity Plans Series 46 1158D July 2022 Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CZ8",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014597",
+    "schemeName": "HDFC Fixed Maturity Plans Series 46 1158D July 2022 Regular Growth",
+    "isin": "INF179KC1CX3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014412",
+    "schemeName": "HDFC Fixed Maturity Plans 1876D March 2022- Series 46 Direct Growth",
+    "isin": "INF179KC1CO2",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014416",
+    "schemeName": "HDFC Fixed Maturity Plans 1876D March 2022- Series 46 Regular Quarterly Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CT1",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014595",
+    "schemeName": "HDFC Fixed Maturity Plans Series 46 1158D July 2022 Direct Growth",
+    "isin": "INF179KC1CU9",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010309",
+    "schemeName": "HDFC Fixed Maturity Plans 1118 Days March 2019 Series 44 Plan 1 Regular Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1700",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011665",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days April 2019 Series 44 Plan 1 Direct Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1791",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002952",
+    "schemeName": "HDFC Flexi Cap Fund -Direct Plan Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VL5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003450",
+    "schemeName": "HDFC Flexi Cap Fund -Direct Plan Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VM3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014413",
+    "schemeName": "HDFC Fixed Maturity Plans 1876D March 2022- Series 46 Regular Growth",
+    "isin": "INF179KC1CR5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001801",
+    "schemeName": "HDFC Flexi Cap Fund Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01590",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003183",
+    "schemeName": "HDFC Flexi Cap Fund Growth",
+    "isin": "INF179K01608",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005337",
+    "schemeName": "HDFC Floating Rate Debt - Direct Plan - Growth Option",
+    "isin": "INF179K01VQ4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005526",
+    "schemeName": "HDFC Floating Rate Debt - Plan - Growth",
+    "isin": "INF179K01707",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF012528",
+    "schemeName": "HDFC FMP 1434D May 2018(1)-Direct Option-Income Dist cum Cap Wdrl Opt",
+    "isin": "INF179KB19D6",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000765",
+    "schemeName": "HDFC Flexi Cap Fund Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01582",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF012353",
+    "schemeName": "HDFC FMP 1487D Aug 2018(1)-Direct Option-Growth Option",
+    "isin": "INF179KB19N5",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011666",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days April 2019 Series 44 Plan 1 Direct Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1809",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002373",
+    "schemeName": "HDFC Floating Rate Debt Direct Plan Monthly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VO9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000517",
+    "schemeName": "HDFC Floating Rate Debt Direct Plan Daily Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014337",
+    "schemeName": "HDFC Fixed Maturity Plan 1162 Days March 2022 Series 46 Direct Growth",
+    "isin": "INF179KC1CI4",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002365",
+    "schemeName": "HDFC Floating Rate Debt Direct Plan Weekly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002052",
+    "schemeName": "HDFC Floating Rate Debt Plan Daily Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01699",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002864",
+    "schemeName": "HDFC Floating Rate Debt Direct Plan Monthly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VP6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010324",
+    "schemeName": "HDFC Fixed Maturity Plans 1120 Days Mar 2019 Series 44 Plan 1 Direct Qt Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KC1619",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002798",
+    "schemeName": "HDFC Floating Rate Debt Direct Plan Weekly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002866",
+    "schemeName": "HDFC Floating Rate Debt Plan Weekly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01749",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002049",
+    "schemeName": "HDFC Floating Rate Debt Plan Weekly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01731",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010307",
+    "schemeName": "HDFC Fixed Maturity Plans 1118 Days March 2019 Series 44 Plan 1 Regular Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1718",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF010699",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days March 2019 Series 44 Plan 1 Regular Growth",
+    "isin": "INF179KC1577",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005242",
+    "schemeName": "HDFC Floating Rate Debt Plan Monthly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01723",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000752",
+    "schemeName": "HDFC Focused 30 Fund Growth",
+    "isin": "INF179K01574",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000413",
+    "schemeName": "HDFC Focused 30 Fund -Direct Plan Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01VJ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF010303",
+    "schemeName": "HDFC Fixed Maturity Plans 1118 Days March 2019 Series 44 Plan 1 Regular Growth",
+    "isin": "INF179KC1692",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000016",
+    "schemeName": "HDFC Focused 30 Fund -Direct Plan Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01VI1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000197",
+    "schemeName": "HDFC Focused 30 Fund Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01558",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF010697",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days March 2019 Series 44 Plan 1 Direct Qt Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1569",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002363",
+    "schemeName": "HDFC Gilt Fund Direct Plan Growth Option",
+    "isin": "INF179K01VS0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001812",
+    "schemeName": "HDFC Gilt Fund Direct Plan Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01VT8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF011667",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days April 2019 Series 44 Plan 1 Regular Growth",
+    "isin": "INF179KC1817",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001112",
+    "schemeName": "HDFC Gilt Fund Direct Plan Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01VR2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004234",
+    "schemeName": "HDFC Gilt Fund Growth",
+    "isin": "INF179K01756",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000524",
+    "schemeName": "HDFC Focused 30 Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01VK7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014415",
+    "schemeName": "HDFC Fixed Maturity Plans 1876D March 2022- Series 46 Regular Normal Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1CS3",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004185",
+    "schemeName": "HDFC Floating Rate Debt Plan Monthly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01715",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000414",
+    "schemeName": "HDFC Focused 30 Fund Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01566",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF010698",
+    "schemeName": "HDFC Fixed Maturity Plans 1127 Days March 2019 Series 44 Plan 1 Direct Nrm Inc Dist cum Cap WdrlOpt",
+    "isin": "INF179KC1551",
+    "schemeType": "Unlisted Closed End Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001814",
+    "schemeName": "HDFC Gilt Fund Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01764",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF009297",
+    "schemeName": "HDFC Gold ETF",
+    "isin": "INF179KC1981",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF000720",
+    "schemeName": "HDFC Gilt Fund Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01772",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF008741",
+    "schemeName": "HDFC Gold ETF Fund of Fund Growth",
+    "isin": "INF179K01LC5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF008643",
+    "schemeName": "HDFC Gold ETF Fund of Fund Direct Plan-Growth",
+    "isin": "INF179K01VX0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF006936",
+    "schemeName": "HDFC Housing Opportunities Fund Direct Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KC1AW9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006933",
+    "schemeName": "HDFC Housing Opportunities Fund Regular Growth",
+    "isin": "INF179KC1AX7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006935",
+    "schemeName": "HDFC Housing Opportunities Fund Direct Growth",
+    "isin": "INF179KC1AU3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF006934",
+    "schemeName": "HDFC Housing Opportunities Fund Regular Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KC1AZ2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003989",
+    "schemeName": "HDFC Hybrid Debt Fund Direct Plan Monthly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01XG1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003953",
+    "schemeName": "HDFC Hybrid Debt Fund Direct Plan Quarterly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01XH9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003990",
+    "schemeName": "HDFC Hybrid Debt Fund Direct Plan Quarterly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01XI7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003968",
+    "schemeName": "HDFC Hybrid Debt Fund Direct Plan Monthly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01XF3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005670",
+    "schemeName": "HDFC Hybrid Debt Fund Growth",
+    "isin": "INF179K01AE4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003808",
+    "schemeName": "HDFC Hybrid Debt Fund Monthly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01AA2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005871",
+    "schemeName": "HDFC Hybrid Debt Fund Direct Plan Growth Option",
+    "isin": "INF179K01XE6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005960",
+    "schemeName": "HDFC Housing Opportunities Fund Direct Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KC1AV1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003809",
+    "schemeName": "HDFC Hybrid Debt Fund Quarterly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01AC8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003991",
+    "schemeName": "HDFC Hybrid Debt Fund Monthly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01AB0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003996",
+    "schemeName": "HDFC Hybrid Debt Fund Quarterly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01AD6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005964",
+    "schemeName": "HDFC Housing Opportunities Fund Regular Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KC1AY5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005143",
+    "schemeName": "HDFC Hybrid Equity Fund Direct Growth Option",
+    "isin": "INF179K01XZ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005139",
+    "schemeName": "HDFC Hybrid Equity Fund Growth",
+    "isin": "INF179K01AS4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF001724",
+    "schemeName": "HDFC Hybrid Equity Fund Direct Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01XX6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003882",
+    "schemeName": "HDFC Hybrid Equity Fund Direct Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01XY4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF001720",
+    "schemeName": "HDFC Hybrid Equity Fund Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01AR6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF000358",
+    "schemeName": "HDFC Hybrid Equity Fund Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01AQ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF002515",
+    "schemeName": "HDFC Income Fund Direct Plan Normal Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KA1Q12",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001101",
+    "schemeName": "HDFC Income Fund -Direct Plan Quarterly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01WJ7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002873",
+    "schemeName": "HDFC Income Fund Direct Plan Normal Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KA1Q04",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001832",
+    "schemeName": "HDFC Income Fund -Direct Plan Quarterly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01WK5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004245",
+    "schemeName": "HDFC Income Fund Growth",
+    "isin": "INF179K01962",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002348",
+    "schemeName": "HDFC Income Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01WL3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001829",
+    "schemeName": "HDFC Income Fund Quarterly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01954",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002520",
+    "schemeName": "HDFC Income Fund Regular Plan Normal Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KA1Q38",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001710",
+    "schemeName": "HDFC Income Plus Arbitrage Active FOF - Direct Growth Plan- Growth",
+    "isin": "INF179KA1SC5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF002880",
+    "schemeName": "HDFC Income Fund Regular Plan Normal Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KA1Q20",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000730",
+    "schemeName": "HDFC Income Fund Quarterly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01947",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF009775",
+    "schemeName": "HDFC Income Plus Arbitrage Active FOF Direct Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1SE1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF001707",
+    "schemeName": "HDFC Income Plus Arbitrage Active FOF Direct Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1SD3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF000435",
+    "schemeName": "HDFC Income Plus Arbitrage Active FOF Growth",
+    "isin": "INF179KA1SF8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF000430",
+    "schemeName": "HDFC Income Plus Arbitrage Active FOF Quarterly Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1SG6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009784",
+    "schemeName": "HDFC Liquid Fund Weekly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1IE1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF004586",
+    "schemeName": "HDFC Long Term Advantage Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01WX8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001854",
+    "schemeName": "HDFC Large Cap Fund -Direct Plan Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01YU0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015397",
+    "schemeName": "HDFC Long Duration Debt Fund Regular Growth",
+    "isin": "INF179KC1EW1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000426",
+    "schemeName": "HDFC Infrastructure Fund Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01GG6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005573",
+    "schemeName": "HDFC Liquid Fund Growth",
+    "isin": "INF179KB1HK0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF001722",
+    "schemeName": "HDFC Large and Mid Cap Fund Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1RU9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009778",
+    "schemeName": "HDFC Liquid Fund -Direct Plan Monthly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HQ7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003102",
+    "schemeName": "HDFC Large and Mid Cap Fund Direct Growth",
+    "isin": "INF179KA1RQ7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001834",
+    "schemeName": "HDFC Large and Mid Cap Fund Direct Reinvestment of Income Distribution cum Cptl Wdrl Opt Plan",
+    "isin": "INF179KA1RS3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008622",
+    "schemeName": "HDFC Liquid Fund -Direct Plan Daily Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HV7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF009782",
+    "schemeName": "HDFC Liquid Fund Monthly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HL8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF008627",
+    "schemeName": "HDFC Liquid Fund -Direct Plan Weekly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HW5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003715",
+    "schemeName": "HDFC Liquid Fund Daily Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1IC5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF001605",
+    "schemeName": "HDFC Large and Mid Cap Fund Growth",
+    "isin": "INF179KA1RT1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003717",
+    "schemeName": "HDFC Liquid Fund Monthly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HM6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF009780",
+    "schemeName": "HDFC Liquid Fund -Direct Plan Weekly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HX3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003461",
+    "schemeName": "HDFC Long Term Advantage Fund -Direct Plan Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01WV2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008619",
+    "schemeName": "HDFC Liquid Fund -Direct Plan - Growth Option",
+    "isin": "INF179KB1HP9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF001835",
+    "schemeName": "HDFC Large and Mid Cap Fund Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179KA1RV7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015395",
+    "schemeName": "HDFC Long Duration Debt Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EX9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001395",
+    "schemeName": "HDFC Large and Mid Cap Fund Direct Payout of Income Distribution cum Cptl Wdrl Opt Plan- Payout",
+    "isin": "INF179KA1RR5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001571",
+    "schemeName": "HDFC Large Cap Fund Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01BC6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015396",
+    "schemeName": "HDFC Long Duration Debt Fund Direct Growth",
+    "isin": "INF179KC1ET7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF008618",
+    "schemeName": "HDFC Liquid Fund -Direct Plan Monthly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1HO2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF004056",
+    "schemeName": "HDFC Low Duration Direct Plan Daily Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003483",
+    "schemeName": "HDFC Long Term Advantage Fund Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01988",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015400",
+    "schemeName": "HDFC Long Duration Debt Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EV3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015399",
+    "schemeName": "HDFC Long Duration Debt Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EY7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003317",
+    "schemeName": "HDFC Long Term Advantage Fund Growth",
+    "isin": "INF179K01996",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003807",
+    "schemeName": "HDFC Liquid Fund Weekly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179KB1ID3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF000424",
+    "schemeName": "HDFC Infrastructure Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01WQ2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000423",
+    "schemeName": "HDFC Infrastructure Fund -Direct Plan Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01WR0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002896",
+    "schemeName": "HDFC Low Duration Regular Plan Daily Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01434",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004927",
+    "schemeName": "HDFC Low Duration Direct Plan Weekly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF903J013J2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001842",
+    "schemeName": "HDFC Large Cap Fund Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01BD4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001567",
+    "schemeName": "HDFC Large Cap Fund Growth",
+    "isin": "INF179K01BE2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004062",
+    "schemeName": "HDFC Low Duration Direct Plan Weekly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF123BSE153",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF009787",
+    "schemeName": "HDFC Income Plus Arbitrage Active FOF Quarterly Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179KA1SH4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF000403",
+    "schemeName": "HDFC Infrastructure Fund Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01GE1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001059",
+    "schemeName": "HDFC Large Cap Fund -Direct Plan Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01YT2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005214",
+    "schemeName": "HDFC Low Duration Direct Plan Monthly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01VH3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005177",
+    "schemeName": "HDFC Low Duration Regular Plan Monthly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01459",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005216",
+    "schemeName": "HDFC Low Duration Regular Plan Monthly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01467",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005579",
+    "schemeName": "HDFC Low Duration Regular Plan Growth",
+    "isin": "INF179K01442",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004063",
+    "schemeName": "HDFC Low Duration Direct Plan Monthly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01VG5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015398",
+    "schemeName": "HDFC Long Duration Debt Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1EU5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003481",
+    "schemeName": "HDFC Long Term Advantage Fund -Direct Plan Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01WW0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002110",
+    "schemeName": "HDFC Low Duration Regular Plan Weekly Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01475",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003306",
+    "schemeName": "HDFC Long Term Advantage Fund Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01970",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005347",
+    "schemeName": "HDFC Low Duration Direct Plan Growth Option",
+    "isin": "INF179K01VF7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF000214",
+    "schemeName": "HDFC Infrastructure Fund Growth",
+    "isin": "INF179K01GF8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015527",
+    "schemeName": "HDFC MNC Fund Regular Growth",
+    "isin": "INF179KC1FF3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001053",
+    "schemeName": "HDFC Large Cap Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01YV8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000427",
+    "schemeName": "HDFC Infrastructure Fund -Direct Plan Payout of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01WP4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015530",
+    "schemeName": "HDFC MNC Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FD8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015525",
+    "schemeName": "HDFC MNC Fund Direct Growth",
+    "isin": "INF179KC1FC0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015528",
+    "schemeName": "HDFC MNC Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FE6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016605",
+    "schemeName": "HDFC Manufacturing Fund Direct Growth",
+    "isin": "INF179KC1II1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002840",
+    "schemeName": "HDFC Low Duration Regular Plan Weekly Reinvestment of Income Distribution cum Capital Wdrl Opt",
+    "isin": "INF179K01483",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015529",
+    "schemeName": "HDFC MNC Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FG1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015526",
+    "schemeName": "HDFC MNC Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1FH9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016609",
+    "schemeName": "HDFC Manufacturing Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1IJ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016604",
+    "schemeName": "HDFC Manufacturing Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1IK7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016607",
+    "schemeName": "HDFC Manufacturing Fund Regular Growth",
+    "isin": "INF179KC1IF7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016608",
+    "schemeName": "HDFC Manufacturing Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1IG5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005262",
+    "schemeName": "HDFC Medium Term Debt Fund Direct Plan Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1NO1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016606",
+    "schemeName": "HDFC Manufacturing Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1IH3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005651",
+    "schemeName": "HDFC Medium Term Debt Fund Direct Plan Normal Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1D90",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005896",
+    "schemeName": "HDFC Medium Term Debt Fund Direct Plan Normal Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1D82",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004607",
+    "schemeName": "HDFC Medium Term Debt Fund Direct Plan Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1NP8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004339",
+    "schemeName": "HDFC Medium Term Debt Fund Regular Plan Normal Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1E16",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004244",
+    "schemeName": "HDFC Medium Term Debt Fund Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179K01897",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005249",
+    "schemeName": "HDFC Medium Term Debt Fund Regular Plan Normal Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1E08",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005883",
+    "schemeName": "HDFC Medium Term Debt Fund Direct Plan Growth Option",
+    "isin": "INF179K01WI9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005568",
+    "schemeName": "HDFC Medium Term Debt Fund Growth",
+    "isin": "INF179K01913",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002116",
+    "schemeName": "HDFC Money Market Daily Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB1IG6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005349",
+    "schemeName": "HDFC Money Market Direct Plan Growth Option",
+    "isin": "INF179KB1HU9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005248",
+    "schemeName": "HDFC Medium Term Debt Fund Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179K01905",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF002107",
+    "schemeName": "HDFC Money Market Weekly Payout of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB1IH4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003465",
+    "schemeName": "HDFC Mid-Cap Opportunities Fund -Direct Plan Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01XO5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003479",
+    "schemeName": "HDFC Mid-Cap Opportunities Fund Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01CT8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005676",
+    "schemeName": "HDFC Multi - Asset Growth",
+    "isin": "INF179K01AP0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003487",
+    "schemeName": "HDFC Mid-Cap Opportunities Fund -Direct Plan Reinvestment of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01XP2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002845",
+    "schemeName": "HDFC Money Market Weekly Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB1II2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003549",
+    "schemeName": "HDFC Mid-Cap Opportunities Fund Payout of Income Distribution cum Cptl Wdrl Opt",
+    "isin": "INF179K01CS0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005312",
+    "schemeName": "HDFC Mid-Cap Opportunities Fund Growth",
+    "isin": "INF179K01CR2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002844",
+    "schemeName": "HDFC Money Market Direct Plan Weekly Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB1IB7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF004258",
+    "schemeName": "HDFC Money Market Growth",
+    "isin": "INF179KB1HR5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF001921",
+    "schemeName": "HDFC Money Market Direct Plan Weekly Payout of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB1IA9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003463",
+    "schemeName": "HDFC Mid-Cap Opportunities Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01XQ0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF001930",
+    "schemeName": "HDFC Money Market Direct Plan Daily Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB1HZ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015658",
+    "schemeName": "HDFC NIFTY Midcap 150 Index Fund Direct Growth",
+    "isin": "INF179KC1GC8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013894",
+    "schemeName": "HDFC NIFTY Next 50 Index Fund Direct Growth",
+    "isin": "INF179KC1BQ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003958",
+    "schemeName": "HDFC Multi - Asset-Direct Plan Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01XU2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013893",
+    "schemeName": "HDFC NIFTY Next 50 Index Fund Regular Growth",
+    "isin": "INF179KC1BR7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013989",
+    "schemeName": "HDFC Multi Cap Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1BX5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008653",
+    "schemeName": "HDFC Multi-Asset Active FoF Regular Reinvestment Income Dist cum Cap Wdrl",
+    "isin": "INF179KC1BF2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013987",
+    "schemeName": "HDFC Multi Cap Fund Direct Growth",
+    "isin": "INF179KC1BS5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013990",
+    "schemeName": "HDFC Multi Cap Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1BW7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013991",
+    "schemeName": "HDFC Multi Cap Fund Regular Growth",
+    "isin": "INF179KC1BV9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015659",
+    "schemeName": "HDFC NIFTY Midcap 150 Index Fund Regular Growth",
+    "isin": "INF179KC1GD6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015451",
+    "schemeName": "HDFC NIFTY Midcap 150 ETF",
+    "isin": "INF179KC1HT0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014987",
+    "schemeName": "HDFC NIFTY100 Low Volatility 30 ETF",
+    "isin": "INF179KC1HU8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003985",
+    "schemeName": "HDFC Multi - Asset Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01AO3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF016533",
+    "schemeName": "HDFC NIFTY Realty Index Fund Regular Growth",
+    "isin": "INF179KC1ID2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004566",
+    "schemeName": "HDFC Multi - Asset-Direct Plan - Growth Option",
+    "isin": "INF179K01XW8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF016731",
+    "schemeName": "HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth",
+    "isin": "INF179KC1IM3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016534",
+    "schemeName": "HDFC NIFTY Realty Index Fund Direct Growth",
+    "isin": "INF179KC1IE0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008651",
+    "schemeName": "HDFC Multi-Asset Active FoF Direct Payout Income Dist cum Cap Wdrl",
+    "isin": "INF179KC1BB1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008649",
+    "schemeName": "HDFC Multi-Asset Active FoF Regular Growth",
+    "isin": "INF179KC1BD7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013988",
+    "schemeName": "HDFC Multi Cap Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1BU1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016730",
+    "schemeName": "HDFC NIFTY100 Low Volatility 30 Index Fund Regular Growth",
+    "isin": "INF179KC1IL5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014890",
+    "schemeName": "HDFC NIFTY100 Quality 30 ETF",
+    "isin": "INF179KC1DL6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014892",
+    "schemeName": "HDFC NIFTY Growth Sectors 15 ETF",
+    "isin": "INF179KC1DJ0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013992",
+    "schemeName": "HDFC Multi Cap Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1BT3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008648",
+    "schemeName": "HDFC Multi-Asset Active FoF Direct Reinvestment Income Dist cum Cap Wdrl",
+    "isin": "INF179KC1BC9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003984",
+    "schemeName": "HDFC Multi - Asset-Direct Plan Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01XV0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF008650",
+    "schemeName": "HDFC Multi-Asset Active FoF Direct Growth",
+    "isin": "INF179KC1BA3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF003812",
+    "schemeName": "HDFC Multi - Asset Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179K01AN5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF013545",
+    "schemeName": "HDFC NIFTY50 Equal Weight Index Fund Regular Growth",
+    "isin": "INF179KC1BN6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014891",
+    "schemeName": "HDFC NIFTY50 Value 20 ETF",
+    "isin": "INF179KC1DK8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014704",
+    "schemeName": "HDFC Nifty 100 ETF",
+    "isin": "INF179KC1HR4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF013546",
+    "schemeName": "HDFC NIFTY50 Equal Weight Index Fund Direct Growth",
+    "isin": "INF179KC1BM8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014988",
+    "schemeName": "HDFC NIFTY200 Momentum 30 ETF",
+    "isin": "INF179KC1HV6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016400",
+    "schemeName": "HDFC NIFTY200 Momentum 30 Index Fund Direct Growth",
+    "isin": "INF179KC1IC4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016401",
+    "schemeName": "HDFC NIFTY200 Momentum 30 Index Fund Regular Growth",
+    "isin": "INF179KC1IB6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007052",
+    "schemeName": "HDFC Nifty Bank ETF - Growth",
+    "isin": "INF179KC1HY0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003470",
+    "schemeName": "HDFC Nifty 50 Index Fund -Direct Plan",
+    "isin": "INF179K01WM1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015137",
+    "schemeName": "HDFC Nifty IT ETF",
+    "isin": "INF179KC1DX1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016292",
+    "schemeName": "HDFC Nifty PSU Bank ETF",
+    "isin": "INF179KC1HW4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017192",
+    "schemeName": "HDFC Nifty India Digital Index Fund Direct Growth",
+    "isin": "INF179KC1JB4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014705",
+    "schemeName": "HDFC Nifty Next 50 ETF",
+    "isin": "INF179KC1HS2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017003",
+    "schemeName": "HDFC Nifty LargeMidcap 250 Index Fund Direct Growth",
+    "isin": "INF179KC1IQ4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017002",
+    "schemeName": "HDFC Nifty LargeMidcap 250 Index Fund Regular Growth",
+    "isin": "INF179KC1IP6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014262",
+    "schemeName": "HDFC Nifty 100 Equal Weight Index Fund Direct Growth",
+    "isin": "INF179KC1CA1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014263",
+    "schemeName": "HDFC Nifty 100 Equal Weight Index Fund Regular Growth",
+    "isin": "INF179KC1CB9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014260",
+    "schemeName": "HDFC Nifty 100 Index Fund Direct Growth",
+    "isin": "INF179KC1BY3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF014261",
+    "schemeName": "HDFC Nifty 100 Index Fund Regular Growth",
+    "isin": "INF179KC1BZ0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003174",
+    "schemeName": "HDFC Nifty 50 Index Fund",
+    "isin": "INF179K01KZ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015892",
+    "schemeName": "HDFC Nifty 1D Rate Liquid ETF",
+    "isin": "INF179KC1HE2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF004950",
+    "schemeName": "HDFC Nifty 50 ETF",
+    "isin": "INF179KC1965",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015452",
+    "schemeName": "HDFC Nifty Smallcap 250 ETF",
+    "isin": "INF179KC1FB2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015136",
+    "schemeName": "HDFC Nifty Private Bank ETF",
+    "isin": "INF179KC1DW3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015663",
+    "schemeName": "HDFC Nifty Smallcap 250 Index Fund Direct Growth",
+    "isin": "INF179KC1GE4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015662",
+    "schemeName": "HDFC Nifty Smallcap 250 Index Fund Regular Growth",
+    "isin": "INF179KC1GF1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016829",
+    "schemeName": "HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth",
+    "isin": "INF179KC1IO9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017354",
+    "schemeName": "HDFC Nifty Top 20 Equal Weight Index Fund Regular Growth",
+    "isin": "INF179KC1JH1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015793",
+    "schemeName": "HDFC Non-Cyclical Consumer Fund Direct Growth",
+    "isin": "INF179KC1GO3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016830",
+    "schemeName": "HDFC Nifty500 Multicap 50:25:25 Index Fund Regular Growth",
+    "isin": "INF179KC1IN1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017191",
+    "schemeName": "HDFC Nifty India Digital Index Fund Regular Growth",
+    "isin": "INF179KC1JA6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008652",
+    "schemeName": "HDFC Multi-Asset Active FoF Regular Payout Income Dist cum Cap Wdrl",
+    "isin": "INF179KC1BE5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF015800",
+    "schemeName": "HDFC Non-Cyclical Consumer Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GP0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015796",
+    "schemeName": "HDFC Non-Cyclical Consumer Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GT2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015795",
+    "schemeName": "HDFC Non-Cyclical Consumer Fund Regular Growth",
+    "isin": "INF179KC1GR6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015794",
+    "schemeName": "HDFC Non-Cyclical Consumer Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GQ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008083",
+    "schemeName": "HDFC Overnight Direct Daily Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179KB1HY1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF016047",
+    "schemeName": "HDFC Pharma and Healthcare Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HM5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF008082",
+    "schemeName": "HDFC Overnight Direct Plan - Growth Option",
+    "isin": "INF179KB1HT1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF003721",
+    "schemeName": "HDFC Overnight Growth",
+    "isin": "INF179KB1HS3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF016049",
+    "schemeName": "HDFC Pharma and Healthcare Fund Direct Growth",
+    "isin": "INF179KC1HO1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016050",
+    "schemeName": "HDFC Pharma and Healthcare Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HP8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016046",
+    "schemeName": "HDFC Pharma and Healthcare Fund Regular Growth",
+    "isin": "INF179KC1HL7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF000751",
+    "schemeName": "HDFC Overnight Daily Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179KB1IF8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT004"
+  },
+  {
+    "id": "MF015799",
+    "schemeName": "HDFC Non-Cyclical Consumer Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GS4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009275",
+    "schemeName": "HDFC Retirement Savings Fund - Hybrid Equity Plan - Regular Plan",
+    "isin": "INF179KB1MI4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009260",
+    "schemeName": "HDFC Retirement Savings Fund - Equity Plan - Direct Plan",
+    "isin": "INF179KB1MF0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005837",
+    "schemeName": "HDFC Short Term Debt Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01YM7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF016054",
+    "schemeName": "HDFC Pharma and Healthcare Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HN3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF016048",
+    "schemeName": "HDFC Pharma and Healthcare Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HQ6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF009261",
+    "schemeName": "HDFC Retirement Savings Fund - Equity Plan - Regular Plan",
+    "isin": "INF179KB1MG8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009262",
+    "schemeName": "HDFC Retirement Savings Fund - Hybrid Debt Plan - Direct Plan",
+    "isin": "INF179KB1MJ2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF009263",
+    "schemeName": "HDFC Retirement Savings Fund - Hybrid Debt Plan - Regular Plan",
+    "isin": "INF179KB1MK0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF004554",
+    "schemeName": "HDFC Short Term Debt Fund -Direct Plan Fortnightly Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF009265",
+    "schemeName": "HDFC Retirement Savings Fund - Hybrid Equity Plan - Direct Plan",
+    "isin": "INF179KB1MH6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF005912",
+    "schemeName": "HDFC Short Term Debt Fund Direct Plan Normal Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1Q46",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005270",
+    "schemeName": "HDFC Short Term Debt Fund -Direct Plan Fortnightly Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005724",
+    "schemeName": "HDFC Short Term Debt Fund Growth",
+    "isin": "INF179K01CU6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005467",
+    "schemeName": "HDFC Short Term Debt Fund Regular Plan Normal Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1Q79",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003181",
+    "schemeName": "HDFC Small Cap Fund Growth",
+    "isin": "INF179KA1RZ8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF004414",
+    "schemeName": "HDFC Short Term Debt Fund Fortnightly Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179K01CV4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005470",
+    "schemeName": "HDFC Short Term Debt Fund Direct Plan Normal Payout of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1Q53",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF005255",
+    "schemeName": "HDFC Short Term Debt Fund Fortnightly Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179K01CW2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF014842",
+    "schemeName": "HDFC Silver ETF",
+    "isin": "INF179KC1DI2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF015144",
+    "schemeName": "HDFC Silver ETF Fund of Fund Regular Growth",
+    "isin": "INF179KC1DV5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF003191",
+    "schemeName": "HDFC Small Cap Fund Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179KA1SA9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015051",
+    "schemeName": "HDFC Silver ETF Fund of Fund Direct Growth",
+    "isin": "INF179KC1DU7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT005"
+  },
+  {
+    "id": "MF003497",
+    "schemeName": "HDFC Small Cap Fund Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179KA1SB7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003491",
+    "schemeName": "HDFC Small Cap Fund-Direct Reinvestment of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179KA1RY1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003368",
+    "schemeName": "HDFC Small Cap Fund-Direct Payout of Income Distribution cum Capital Withdrawal option",
+    "isin": "INF179KA1RX3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003370",
+    "schemeName": "HDFC Small Cap Fund-Direct Growth Option",
+    "isin": "INF179KA1RW5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF005898",
+    "schemeName": "HDFC Short Term Debt Fund Regular Plan Normal Reinvestment of Income Dis cum Cptl Wdrl Opt",
+    "isin": "INF179KA1Q61",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015930",
+    "schemeName": "HDFC Technology Fund Direct Growth",
+    "isin": "INF179KC1HI3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF017388",
+    "schemeName": "HDFC Standard Life - Group Dynamic Advantage Fund",
+    "isin": null,
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT002"
+  },
+  {
+    "id": "MF015929",
+    "schemeName": "HDFC Technology Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HK9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015934",
+    "schemeName": "HDFC Technology Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HH5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015931",
+    "schemeName": "HDFC Technology Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HJ1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015873",
+    "schemeName": "HDFC Transportation and Logistics Fund Direct Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GW6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015878",
+    "schemeName": "HDFC Transportation and Logistics Fund Direct Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GV8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015932",
+    "schemeName": "HDFC Technology Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1HG7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015871",
+    "schemeName": "HDFC Transportation and Logistics Fund Direct Growth",
+    "isin": "INF179KC1GU0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015879",
+    "schemeName": "HDFC Transportation and Logistics Fund Regular Payout Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GY2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015870",
+    "schemeName": "HDFC Transportation and Logistics Fund Regular Growth",
+    "isin": "INF179KC1GX4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF015872",
+    "schemeName": "HDFC Transportation and Logistics Fund Regular Reinvestment Inc Dist cum Cap Wdrl",
+    "isin": "INF179KC1GZ9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007568",
+    "schemeName": "HDFC Ultra S/T Fund Direct Daily Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB16Q4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF015933",
+    "schemeName": "HDFC Technology Fund Regular Growth",
+    "isin": "INF179KC1HF9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007561",
+    "schemeName": "HDFC Ultra S/T Fund Direct Monthly Payout of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB10R5",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007570",
+    "schemeName": "HDFC Ultra S/T Fund Direct Growth",
+    "isin": "INF179KB15Q6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007560",
+    "schemeName": "HDFC Ultra S/T Fund Direct Monthly Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB19Q8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007564",
+    "schemeName": "HDFC Ultra S/T Fund Direct Weekly Payout of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB18Q0",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007562",
+    "schemeName": "HDFC Ultra S/T Fund Direct Weekly Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB17Q2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007576",
+    "schemeName": "HDFC Ultra S/T Fund Regular Growth",
+    "isin": "INF179KB11R3",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007575",
+    "schemeName": "HDFC Ultra S/T Fund Regular Daily Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB12R1",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007572",
+    "schemeName": "HDFC Ultra S/T Fund Regular Monthly Payout of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB16R2",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007573",
+    "schemeName": "HDFC Ultra S/T Fund Regular Weekly Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB13R9",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003182",
+    "schemeName": "HDFC Value Fund Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01400",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002965",
+    "schemeName": "HDFC Value Fund -Direct Plan Payout Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VA8",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF002963",
+    "schemeName": "HDFC Value Fund -Direct Plan - Growth Option",
+    "isin": "INF179K01VC4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF007574",
+    "schemeName": "HDFC Ultra S/T Fund Regular Weekly Payout of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB14R7",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF007571",
+    "schemeName": "HDFC Ultra S/T Fund Regular Monthly Reinvestment of Income Distribution cum Capital Withdrawal Opt",
+    "isin": "INF179KB15R4",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT001"
+  },
+  {
+    "id": "MF003185",
+    "schemeName": "HDFC Value Fund Growth",
+    "isin": "INF179K01426",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003453",
+    "schemeName": "HDFC Value Fund -Direct Plan Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01VB6",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  },
+  {
+    "id": "MF003454",
+    "schemeName": "HDFC Value Fund Reinvestment Inc Dist cum Cap Wdrl Opt",
+    "isin": "INF179K01418",
+    "schemeType": "Open Ended Investment Company",
+    "categoryId": "MFCAT003"
+  }
+]
