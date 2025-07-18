@@ -9,4 +9,5 @@ dependencies = [
     "crewai-tools>=0.55.0",
     "python-dotenv>=1.1.1",
     "streamlit>=1.47.0",
+    "pysqlite3-binary>=0.4.6",
 ]
