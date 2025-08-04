@@ -3,7 +3,7 @@ import os
 from crewai import Agent, Task, Crew, LLM, Process
 from crewai.project import agent, task, crew, CrewBase
 from crewai_tools import SerperDevTool
-from tools.nse_tools import get_all_nse_tools
+from src.crew.tools.nse_tools import get_all_nse_tools
 from dotenv import load_dotenv
 
 load_dotenv()
