@@ -1,5 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 from src.crew.conversation_crew import ConversationCrew
 import sys
 
@@ -8,6 +9,13 @@ app = FastAPI(
     title="NSE Stock Market Analysis API",
     description="Ask questions about Indian stocks, IPOs, or market data",
     version="1.0.0"
+)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
 )
 
 # Initialize the crew
