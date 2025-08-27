@@ -31,7 +31,7 @@ class StockResponse(BaseModel):
     result: str
     status: str
 
-@app.post("/analyze-stock/", response_model=StockResponse)
+@app.post("/analyze-stock", response_model=StockResponse)
 async def analyze_stock(query: StockQuery):
     """
     Analyze stock market questions using the conversation crew
@@ -67,7 +67,7 @@ async def root():
     return {
         "message": "NSE Stock Market Analysis System",
         "description": "Ask questions about Indian stocks, IPOs, or market data",
-        "endpoint": "/analyze-stock/",
+        "endpoint": "/analyze-stock",
         "examples": [
             "Tell me about Reliance stock",
             "LIC IPO performance",
